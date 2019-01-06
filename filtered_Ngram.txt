@@ -1,0 +1,7827 @@
+quote19 quote19 quote19 quote19 quote19 quote19 quote19 quote19 quote19 
+quote19 quote19 quote19 quote19 quote19 quote19 quote19 quote19 quote19 quote19 
+quote19 quote19 quote19 quote19 quote19 quote19 quote19 
+quote19 quote19 quote19 quote19 quote19 quote19 quote19 quote19 
+quote19 quote19 quote19 quote19 quote19 
+quote19 quote19 quote19 quote19 quote19 quote19 
+quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 
+quote15 quote15 quote15 quote15 quote15 
+quote15 quote15 quote15 quote15 quote15 quote15 quote15 
+quote15 quote15 quote15 quote15 quote15 quote15 
+quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 
+quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 
+quote15 
+quote15 quote15 quote15 
+quote15 quote15 quote15 quote15 
+quote22 
+quote14 
+quote19 quote19 quote19 
+quote19 quote19 quote19 quote19 
+quote15 quote15 
+quote24 quote24 
+quote24 
+quote24 quote24 quote24 
+quote24 quote24 quote24 quote24 
+quote24 quote24 quote24 quote24 quote24 
+quote24 quote24 quote24 quote24 quote24 quote24 
+quote24 quote24 quote24 quote24 quote24 quote24 quote24 
+quote24 quote24 quote24 quote24 quote24 quote24 quote24 quote24 
+quote24 quote24 quote24 quote24 quote24 quote24 quote24 quote24 quote24 
+quote24 quote24 quote24 quote24 quote24 quote24 quote24 quote24 quote24 quote24 
+the 
+quote3 
+quote2 
+quote27 
+quote5 
+quote4 
+quote7 
+quote16 
+to 
+quote3 quote3 
+quote0 
+quote2 quote2 
+quote16 quote16 quote16 quote16 quote16 
+quote16 quote16 quote16 quote16 
+quote16 quote16 quote16 quote16 quote16 quote16 
+quote16 quote16 quote16 
+quote16 quote16 quote16 quote16 quote16 quote16 quote16 
+quote16 quote16 quote16 quote16 quote16 quote16 quote16 quote16 
+quote16 quote16 
+quote16 quote16 quote16 quote16 quote16 quote16 quote16 quote16 quote16 
+a 
+quote16 quote16 quote16 quote16 quote16 quote16 quote16 quote16 quote16 quote16 
+is 
+non 
+non quote15 
+quote22 quote22 
+1 
+quote19 quote22 
+quote22 quote19 
+of 
+quote6 
+quote9 
+quote29 
+quote27 non 
+nls 
+nls quote15 
+quote27 non quote15 nls quote15 
+quote27 non quote15 
+quote27 non quote15 nls 
+this 
+quote10 
+quote19 quote19 quote27 non 
+quote19 quote19 quote27 non quote15 nls quote15 
+quote19 quote19 quote27 non quote15 
+quote19 quote19 quote27 non quote15 nls 
+quote19 quote19 quote27 
+we 
+nls quote15 1 
+nls quote15 1 quote27 
+quote15 1 quote27 
+quote15 1 
+quote27 non quote15 nls quote15 1 
+quote19 quote19 quote27 non quote15 nls quote15 1 
+quote27 non quote15 nls quote15 1 quote27 
+quote19 quote19 quote27 non quote15 nls quote15 1 quote27 
+for 
+quote5 quote22 
+in 
+quote8 
+if 
+and 
+quote22 quote8 
+see 
+quote29 quote29 quote29 quote29 quote29 
+quote29 quote29 quote29 quote29 quote29 quote29 
+quote29 quote29 quote29 quote29 
+quote29 quote29 quote29 quote29 quote29 quote29 quote29 
+quote4 quote5 
+quote29 quote29 quote29 
+quote8 see 
+quote22 quote8 see 
+quote29 quote29 quote29 quote29 quote29 quote29 quote29 quote29 
+not 
+it 
+be 
+quote17 
+quote29 quote29 quote29 quote29 quote29 quote29 quote29 quote29 quote29 
+quote19 quote19 quote3 quote3 quote3 
+quote19 quote19 quote3 quote3 
+quote12 
+quote19 quote19 quote3 
+quote5 quote22 quote19 
+method 
+quote29 quote29 quote29 quote29 quote29 quote29 quote29 quote29 quote29 quote29 
+quote19 quote19 quote2 quote2 quote2 
+org 
+quote5 quote10 
+quote19 quote2 
+quote19 quote19 quote2 
+org quote14 
+that 
+quote29 quote29 
+quote19 quote22 quote22 
+quote22 quote22 quote8 
+quote11 
+java 
+quote22 quote22 quote8 see 
+quote20 
+quote21 
+quote5 method 
+todo 
+quote4 quote5 method 
+java quote14 
+questionmark 
+value 
+quote8 see org quote14 
+see org quote14 
+quote22 quote8 see org quote14 
+quote14 quote14 
+are 
+t 
+argouml 
+class 
+as 
+quote6 t 
+org quote14 argouml quote14 
+argouml quote14 
+quote14 argouml 
+with 
+quote22 quote22 quote22 quote22 quote22 quote22 quote22 quote22 quote22 quote22 
+todo quote9 
+quote22 quote22 quote8 see org quote14 
+quote22 quote22 quote22 quote22 quote22 quote22 quote22 quote22 quote22 
+from 
+file 
+an 
+quote22 quote22 quote22 quote22 quote22 quote22 quote22 quote22 
+object 
+quote22 quote22 quote22 quote22 quote22 quote22 quote22 
+quote22 quote22 quote22 quote22 quote22 quote22 
+set 
+quote19 quote19 todo 
+new 
+use 
+add 
+i18n 
+event 
+all 
+on 
+quote22 quote22 quote22 quote22 quote22 
+check 
+quote27 quote19 quote19 quote27 non quote15 nls quote15 1 quote27 
+no 
+so 
+quote22 quote8 see org quote14 argouml quote14 
+do 
+null 
+by 
+quote22 quote22 quote8 see org quote14 argouml quote14 
+should 
+i18n quote20 
+quote19 quote19 i18n quote20 
+create 
+quote19 i18n 
+quote19 quote19 i18n 
+or 
+name 
+quote22 quote22 quote22 quote22 
+quote14 quote22 
+get 
+string 
+only 
+have 
+line 
+of the 
+can 
+quote19 quote19 todo quote9 
+s 
+quote22 quote22 quote22 
+return 
+in the 
+byte 
+quote18 
+2 
+need 
+event quote14 
+fill 
+will 
+0 
+type 
+quote14 event quote14 
+quote13 
+awt 
+quote6 s 
+default 
+ui 
+quote14 event 
+quote27 quote19 
+quote27 quote19 quote19 
+uml 
+java quote14 awt quote14 
+there 
+quote14 ui 
+data 
+ui quote14 
+quote14 ui quote14 
+quote4 quote5 quote22 
+nls quote15 1 quote27 quote19 quote19 
+quote27 non quote15 nls quote15 1 quote27 quote19 quote19 
+of value quote4 byte quote5 
+javadoc 
+quote4 byte 
+quote14 quote14 quote14 
+quote19 quote19 fill 
+byte quote5 
+one 
+quote4 java quote14 
+quote4 java 
+but 
+lang 
+java quote14 lang 
+quote19 if 
+java quote14 lang quote14 
+quote19 quote19 if 
+here 
+quote22 quote11 
+quote27 quote19 quote19 quote27 non 
+quote27 quote19 quote19 quote27 non quote15 nls quote15 
+quote27 quote19 quote19 quote27 non quote15 
+quote12 quote22 
+first 
+quote23 
+used 
+value quote4 
+nls quote15 1 quote27 quote19 quote19 quote27 non 
+java quote14 awt quote14 event quote14 
+quote22 quote4 non quote15 javadoc quote5 
+quote15 javadoc 
+quote22 quote4 non quote15 javadoc quote5 quote22 
+of value 
+table 
+when 
+quote4 non 
+quote4 non quote15 
+list 
+sql 
+which 
+model 
+quote27 quote19 quote19 quote27 non quote15 nls quote15 1 
+don 
+don quote6 t 
+end 
+user 
+need to 
+text 
+at 
+case 
+any 
+just 
+quote19 quote19 check 
+methods 
+to be 
+java quote14 lang quote14 object 
+org quote14 argouml quote14 uml quote14 
+int 
+then 
+test 
+make 
+quote14 uml quote14 
+td 
+has 
+quote22 quote8 see org quote14 argouml quote14 uml quote14 
+quote19 create 
+quote22 quote22 quote8 see org quote14 argouml quote14 uml quote14 
+quote19 quote19 create 
+quote14 uml 
+quote10 quote19 
+quote10 quote19 quote19 
+uml quote14 
+this is 
+now 
+quote14 quote19 
+code 
+cognitive 
+quote14 quote19 quote19 
+quote14 cognitive 
+quote14 cognitive quote14 
+up 
+message 
+quote19 we 
+quote19 quote19 we 
+quote10 quote22 
+quote19 add 
+quote19 quote19 add 
+private 
+error 
+to the 
+quote14 object 
+remove 
+javax 
+quote19 quote19 line 
+javax quote14 
+quote16 quote0 
+i 
+quote19 this 
+quote19 quote19 this 
+was 
+quote22 quote4 non quote15 javadoc quote5 quote22 quote8 see 
+quote19 get 
+since 
+nothing 
+quote19 quote19 get 
+try 
+must 
+change 
+if the 
+read 
+quote14 quote22 quote19 
+same 
+for the 
+3 
+quote7 so 
+quote15 quote12 
+columba 
+swing 
+empty 
+folder 
+last 
+quote22 quote4 
+gef 
+is not 
+quote7 but 
+quote19 set 
+does 
+of value quote4 byte quote5 quote15 
+some 
+quote19 quote19 set 
+byte quote5 quote15 
+path 
+column 
+columba quote14 
+current 
+javax quote14 swing 
+org quote14 columba quote14 
+quote14 columba 
+update 
+javax quote14 swing quote14 
+quote4 quote0 
+quote4 java quote14 lang quote14 
+quote5 quote5 
+because 
+4 
+quote5 quote5 quote10 
+instance 
+other 
+constructor 
+may 
+values 
+quote5 quote10 quote19 
+quote5 quote10 quote19 quote19 
+object quote5 
+into 
+quote26 
+ignore 
+quote22 todo 
+call 
+if we 
+true 
+p 
+object quote5 quote22 
+from the 
+already 
+quote5 quote10 quote22 
+quote22 todo quote9 
+quote12 quote22 quote11 
+org quote14 argouml quote14 cognitive 
+org quote14 argouml quote14 cognitive quote14 
+is a 
+property 
+the same 
+element 
+node 
+sql quote14 
+tigris quote14 
+command 
+quote14 tigris quote14 
+quote11 quote19 
+handle 
+33 
+org quote14 tigris quote14 
+out 
+been 
+quote0 quote5 
+array 
+org quote14 tigris quote14 gef quote14 
+time 
+quote4 java quote14 awt quote14 
+gef quote14 
+key 
+fig 
+x 
+e 
+start 
+quote4 java quote14 lang quote14 object 
+number 
+find 
+these 
+save 
+quote22 quote8 see java quote14 
+it is 
+sure 
+see java quote14 
+result 
+re 
+more 
+there is 
+where 
+before 
+each 
+they 
+quote11 p 
+properties 
+item 
+index 
+after 
+get the 
+quote4 quote5 quote10 
+using 
+java quote14 lang quote14 object quote5 quote22 
+we need 
+than 
+needed 
+quote22 quote8 see java quote14 awt quote14 
+if there 
+quote7 we 
+load 
+body 
+done 
+we can 
+doesn quote6 
+quote22 quote8 see javax quote14 
+should be 
+quote19 the 
+quote19 quote19 the 
+found 
+collection 
+diagram 
+width 
+its 
+quote5 quote14 
+doesn quote6 t 
+quote0 quote12 
+quote22 quote8 see org quote14 tigris quote14 
+quote4 dg quote5 quote10 quote22 
+exception 
+want 
+1 quote14 
+of value quote4 byte quote5 33 
+next 
+quote22 quote22 quote8 see java quote14 
+field 
+quote4 java quote14 awt quote14 event quote14 
+quote4 dg quote5 
+param 
+quote22 quote8 see java quote14 awt quote14 event quote14 
+set the 
+quote22 quote22 quote8 see org quote14 tigris quote14 
+quote22 quote8 see org quote14 tigris quote14 gef quote14 
+quote19 no 
+quote4 dg quote5 quote10 
+selected 
+quote19 quote19 no 
+org quote14 argouml quote14 uml quote14 ui quote14 
+work 
+we have 
+size 
+also 
+squirrel 
+quote22 quote22 quote8 see org quote14 tigris quote14 gef quote14 
+org quote14 argouml quote14 ui 
+called 
+org quote14 argouml quote14 ui quote14 
+delete 
+net 
+quote5 quote15 
+create a 
+types 
+will be 
+e quote14 
+quote5 quote22 quote8 
+quote22 quote8 see javax quote14 swing quote14 
+source 
+directory 
+quote22 quote22 quote8 see javax quote14 
+version 
+files 
+quote22 quote22 quote8 see java quote14 awt quote14 
+quote28 
+quote19 quote19 ignore 
+added 
+quote19 do 
+note 
+quote19 quote19 do 
+b 
+19 
+static 
+them 
+it quote6 s 
+do nothing 
+quote8 see org quote14 columba quote14 
+false 
+package 
+quote11 quote19 td quote12 quote22 quote11 
+quote12 quote22 quote11 td 
+could 
+interface 
+quote19 quote22 quote4 
+names 
+reference 
+what 
+block 
+boolean 
+quote22 the 
+gui 
+quote22 quote22 quote8 see java quote14 awt quote14 event quote14 
+5 
+quote19 quote15 
+we quote6 
+quote22 quote8 see org quote14 columba quote14 
+show 
+point 
+quote19 quote19 quote15 
+support 
+project 
+quote8 param 
+on the 
+quote30 
+presentation 
+of value quote4 byte quote5 quote15 19 
+copy 
+quote7 and 
+quote14 sourceforge quote14 
+quote22 quote22 quote8 see javax quote14 swing quote14 
+quote14 presentation 
+match 
+otherwise 
+allow 
+always 
+org quote14 tigris quote14 gef quote14 presentation quote14 
+net quote14 
+specified 
+quote22 quote8 param 
+plugin 
+parent 
+elements 
+right 
+select 
+public 
+quote9 this 
+we are 
+thread 
+net quote14 sourceforge quote14 squirrel quote17 sql quote14 
+quote17 sql 
+quote0 quote7 
+quote14 squirrel 
+tree 
+quote22 quote8 see org quote14 argouml quote14 ui quote14 
+log 
+special 
+search 
+so we 
+classes 
+quote22 quote22 quote8 see org quote14 argouml quote14 ui quote14 
+fixme 
+you 
+valid 
+settings 
+questionmark questionmark 
+quote4 java quote14 lang quote14 object quote5 quote22 
+being 
+quote18 quote15 quote15 quote18 quote15 quote15 quote18 quote15 quote15 quote18 
+we don quote6 t 
+with the 
+quote18 quote15 quote15 quote18 quote15 quote15 quote18 
+our 
+use the 
+process 
+if it 
+two 
+critics 
+needs 
+implementation 
+look 
+does not 
+view 
+quote19 private 
+menu 
+quote19 quote19 private 
+make sure 
+row 
+variables 
+label 
+ok 
+rules 
+33 quote19 quote19 
+p quote12 
+that the 
+org quote14 tigris quote14 gef quote14 presentation quote14 fig 
+it quote6 
+actionperformed quote4 
+the first 
+action 
+created 
+of value quote4 byte quote5 33 quote19 quote19 fill 
+quote7 then 
+session 
+a new 
+off 
+way 
+object quote7 
+quote12 quote22 quote11 td width quote16 quote0 
+would 
+draw 
+actionlistener 
+quote14 fig 
+back 
+cannot 
+different 
+target 
+we need to 
+state 
+model quote14 
+n 
+parameter 
+color 
+can quote6 t 
+the current 
+as a 
+actionevent 
+like 
+cache 
+members 
+the user 
+fixme quote9 
+both 
+align quote16 quote0 
+quote22 quote8 see net quote14 
+end of 
+quote16 new 
+quote19 quote19 quote15 quote15 quote15 quote15 
+xml 
+explorer 
+given 
+java quote14 awt quote14 event quote14 actionlistener 
+quote7 quote22 
+quote19 quote19 quote15 quote15 quote15 
+critics quote14 
+actionevent quote5 quote22 
+y 
+checkstyle 
+changed 
+quote29 actionperformed quote4 
+quote7 quote19 quote19 
+quote14 critics 
+quote14 cognitive quote14 critics 
+actionlistener quote29 actionperformed quote4 
+int quote5 
+character 
+c 
+content 
+quote18 quote15 quote15 quote18 
+check if 
+java quote14 awt quote14 event quote14 actionlistener quote29 actionperformed quote4 
+mail 
+through 
+quote19 quote19 try 
+quote14 cognitive quote14 critics quote14 
+quote11 p quote12 
+quote19 quote19 checkstyle 
+order 
+width quote16 quote0 
+old 
+quote19 quote19 checkstyle quote9 
+entity 
+argument 
+items 
+todo quote9 this 
+map 
+java quote14 awt quote14 event quote14 actionevent 
+filter 
+objects 
+must be 
+id 
+quote19 quote19 make 
+do not 
+really 
+events 
+close 
+args 
+g 
+util 
+is the 
+core 
+java quote14 awt quote14 event quote14 actionevent quote5 quote22 
+encoding 
+quote15 quote15 quote18 quote15 quote15 
+operations 
+can be 
+override 
+selection 
+quote19 quote19 get the 
+panel 
+code quote12 
+range 
+by the 
+java quote14 lang quote14 object quote7 
+create the 
+quote19 not 
+quote0 quote18 
+columns 
+quote19 quote19 this is 
+quote10 quote22 quote19 
+quote14 util 
+required 
+quote14 util quote14 
+quote4 int 
+implemented 
+entry 
+write 
+header 
+returns 
+private members 
+rules quote14 
+quote19 quote19 not 
+p quote12 quote22 
+original 
+final 
+quote11 quote19 td quote12 quote22 quote11 td 
+quote19 quote19 return 
+quote19 quote19 fill 2 of value quote4 byte quote5 
+quote19 quote19 quote15 quote15 quote15 quote15 quote15 
+graph 
+align 
+quote28 quote0 quote12 
+loop 
+know 
+build 
+series 
+put 
+instead 
+quote0 quote5 quote10 
+to do 
+quote4 java quote14 awt quote14 event quote14 actionevent 
+quote5 quote7 
+parameters 
+quote19 quote19 do nothing 
+namespace 
+changes 
+skip 
+length 
+to use 
+quote4 java quote14 awt quote14 event quote14 actionevent quote5 quote22 
+root 
+register 
+this method 
+the model 
+tooltip 
+without 
+ensure 
+child 
+quote2 0 
+width quote16 
+display 
+quote18 quote15 quote15 
+quote15 quote15 quote18 
+the new 
+so that 
+necessary 
+setup 
+system 
+quote19 quote19 checkstyle quote9 visibilitymodifier 
+attribute 
+defined 
+want to 
+try to 
+url 
+quote2 0 quote3 
+execute 
+following 
+quote22 quote11 p 
+quote19 quote19 quote15 quote15 quote15 quote15 quote15 quote15 quote15 
+quote19 quote19 set the 
+dialog 
+quote19 quote19 note 
+stream 
+between 
+quote28 quote0 
+quote6 re 
+8 
+quote7 int 
+about 
+quote4 quote5 quote5 
+int quote5 quote22 
+bar 
+listener 
+buffer 
+all the 
+space 
+info 
+note quote9 
+quote19 quote19 fixme 
+client 
+output 
+center 
+listeners 
+quote11 p quote12 quote22 
+quote19 quote22 quote22 quote22 
+top 
+something 
+those 
+operation 
+base 
+replace 
+quote18 quote15 
+quote19 quote19 quote15 quote15 quote15 quote15 quote15 quote15 
+quote27 non quote15 nls quote15 2 quote27 
+quote9 quote22 
+add the 
+quote19 test 
+else 
+if there is 
+2 of 
+quote19 for 
+contains 
+part 
+quote19 quote19 test 
+format 
+frame 
+dataset 
+visible 
+removed 
+java quote14 lang quote14 string 
+until 
+quote19 quote19 for 
+quote19 remove 
+quote22 quote22 todo 
+flag 
+at the 
+we quote6 re 
+g quote14 
+variable 
+initialize 
+local 
+input 
+in a 
+quote19 quote19 now 
+the text 
+quote4 quote5 quote5 quote10 
+axis 
+during 
+mail quote14 
+quote19 quote19 remove 
+whether 
+quote19 quote0 
+quote22 quote11 quote19 td quote12 quote22 quote11 
+store 
+quote22 quote22 todo quote9 
+inner 
+add quote4 
+quote19 quote19 don quote6 t 
+pass 
+configuration 
+better 
+number of 
+quote11 quote19 td quote12 quote22 quote11 td width quote16 quote0 
+eclipse 
+quote19 quote19 if the 
+quote19 quote19 quote15 quote15 
+yet 
+bit 
+list of 
+later 
+move 
+org quote14 columba quote14 mail 
+diagram quote14 
+e quote14 g 
+scope 
+quote15 tfm 
+check for 
+for this 
+quote14 g 
+server 
+org quote14 columba quote14 mail quote14 
+request 
+position 
+quote13 quote13 
+api 
+the file 
+quote15 quote15 quote12 
+exists 
+quote14 quote22 quote22 
+quote14 mail 
+run 
+currently 
+single 
+specific 
+arguments 
+keep 
+convert 
+quote14 mail quote14 
+feature 
+http 
+of value quote4 byte quote5 quote15 87 
+query 
+link 
+check that 
+quote15 2 
+the list 
+while 
+component 
+return the 
+org quote14 columba quote14 core quote14 
+the default 
+quote19 quote19 if we 
+with a 
+editing 
+core quote14 
+clear 
+previous 
+correct 
+mode 
+assume 
+quote19 quote19 fixme quote9 
+quote28 quote0 quote12 quote22 quote11 
+attributes 
+quote14 core 
+many 
+available 
+throw 
+too 
+level 
+contain 
+that we 
+e quote14 g quote14 
+author 
+generate 
+probably 
+designer 
+icon 
+needs to 
+open 
+quote4 org quote14 
+the data 
+irubyobject 
+even 
+the following 
+for a 
+there are 
+has been 
+0 quote7 
+another 
+let 
+o 
+second 
+either 
+10 
+title 
+insert 
+double 
+com 
+characters 
+quote19 quote19 use 
+implement 
+non quote15 null 
+happen 
+options 
+quote19 quote19 create a 
+quote22 quote8 see org quote14 argouml quote14 cognitive quote14 
+nodes 
+quote22 quote11 quote19 
+expected 
+still 
+quote22 quote22 quote8 see org quote14 argouml quote14 cognitive quote14 
+javax quote14 swing quote14 event 
+quote19 quote19 draw 
+main 
+might 
+avoid 
+resource 
+internal 
+quote8 author 
+parse 
+super 
+function 
+quote7 which 
+based 
+javax quote14 swing quote14 event quote14 
+have a 
+quote15 null 
+include 
+why 
+set up 
+quote2 private 
+quote19 quote19 quote0 
+quote19 quote19 check if 
+font 
+quote0 center 
+2 quote14 
+multiple 
+cell 
+in this 
+org quote14 argouml quote14 uml quote14 diagram quote14 
+contents 
+ignored 
+quote19 quote19 only 
+quote0 center quote0 
+quote14 add quote4 
+db 
+handling 
+int quote7 
+date 
+org quote14 argouml quote14 uml quote14 cognitive quote14 critics 
+we should 
+if this 
+see if 
+possible 
+org quote14 argouml quote14 model quote14 
+existing 
+tr quote12 
+owner 
+may be 
+beans 
+for each 
+the last 
+how 
+quote7 so we 
+the class 
+windows 
+quote19 end 
+height 
+above 
+script 
+information 
+fields 
+quote14 gui quote14 
+quote22 quote8 return 
+quote19 and 
+as the 
+of value quote4 byte quote5 quote15 19 quote19 quote19 fill 
+gui quote14 
+string quote5 
+never 
+quote8 return 
+stack 
+quote14 string 
+go 
+popup 
+quote7 quote0 
+quote22 quote8 see org quote14 argouml quote14 model quote14 
+the value 
+quote19 quote19 end 
+quote14 diagram 
+allowed 
+quote19 quote19 and 
+proxy 
+are not 
+a non 
+cruml 
+quote9 quote19 
+separator 
+group 
+quote14 gui 
+tr 
+beans quote14 
+oracle 
+that are 
+the name 
+copied 
+quote16 quote22 
+java quote14 beans quote14 
+quote4 quote5 quote14 
+quote22 quote22 quote8 see org quote14 argouml quote14 model quote14 
+quote19 quote19 quote3 quote3 quote3 quote19 quote19 
+their 
+actually 
+quote22 this 
+html 
+over 
+window 
+quote7 since 
+isn quote6 t 
+quote22 quote22 quote8 param 
+quote14 sql quote14 
+and the 
+plugins 
+used to 
+processing 
+uri 
+rows 
+tests 
+quote14 sql 
+quote19 quote19 handle 
+of this 
+junit 
+return a 
+exist 
+graph quote14 
+quote14 4 
+button 
+paint 
+fall 
+plot 
+quote14 add 
+data type 
+left 
+jar 
+details 
+i quote14 e 
+not be 
+quote16 null 
+clone 
+designer quote5 quote22 
+org quote14 argouml quote14 cognitive quote14 designer 
+again 
+to change 
+re quote15 
+appropriate 
+should not 
+once 
+reset 
+foo 
+quote22 end 
+of a 
+net quote14 sourceforge quote14 squirrel quote17 sql quote14 client quote14 
+quote14 model quote14 
+char 
+switch 
+quote19 quote19 make sure 
+eclipse quote14 
+quote7 org quote14 
+quote9 quote19 quote19 
+problem 
+sequence 
+the next 
+ll 
+form 
+init 
+targetmanager 
+cases 
+per 
+quote7 java 
+generated 
+area 
+anything 
+tr quote12 quote22 quote11 
+quote22 java quote14 
+client quote14 
+i quote14 e quote14 
+the quote0 
+critic 
+org quote14 eclipse quote14 
+returned 
+checking 
+quote7 if 
+w 
+quote7 java quote14 
+quote14 eclipse quote14 
+quote19 process 
+below 
+count 
+quote19 update 
+quote4 int quote5 
+quote19 quote19 process 
+messages 
+within 
+quote6 ll 
+body of 
+quote14 model 
+quote19 quote19 otherwise 
+box 
+determine 
+quote4 new 
+targetmanager quote14 
+templates 
+simple 
+self 
+to make 
+us 
+end class 
+sample 
+append 
+quote19 quote19 update 
+zero 
+jmeter 
+expression 
+the quote19 
+this class 
+tab 
+results 
+an empty 
+quote19 a 
+parser 
+quote19 quote19 default 
+quote19 quote11 
+token 
+quote14 e 
+quote14 targetmanager 
+connection 
+the quote19 quote19 
+questionmark quote19 
+quote19 quote19 note quote9 
+least 
+when the 
+context 
+quote0 quote12 quote22 quote11 
+quote8 see org quote14 columba quote14 mail quote14 
+questionmark quote19 quote19 
+bc 
+quote19 quote19 if there 
+a non quote15 
+tables 
+org quote14 argouml quote14 ui quote14 targetmanager quote14 
+testcase 
+d 
+quote14 e quote14 
+string quote7 
+database 
+alias 
+drop 
+max 
+every 
+up the 
+which is 
+have to 
+quote19 save 
+comment 
+editor 
+actual 
+no need 
+quote19 to 
+doc 
+is used 
+calls 
+quote19 quote19 so 
+quote19 quote19 save 
+most 
+needs to be 
+hack 
+schema 
+status 
+draw the 
+access 
+functions 
+the table 
+off quote15 bc 
+irubyobject quote7 
+quote19 quote19 to 
+quote22 if 
+behavior 
+quote19 register 
+off quote15 
+ruby 
+guaranteed 
+adding 
+plugin quote14 
+quote7 java quote14 lang quote14 
+templates quote14 
+first quote7 
+quote19 quote19 register 
+stereotype 
+quote22 java quote14 lang quote14 
+references 
+quote19 quote19 should 
+questionmark quote22 
+quote22 quote22 quote8 see org quote14 columba quote14 
+initial 
+supported 
+into the 
+containing 
+domain 
+quote7 it 
+quote14 this 
+enable 
+user quote15 
+the end 
+entries 
+separate 
+send 
+quote22 quote8 see org quote14 columba quote14 mail quote14 
+constants 
+uses 
+int quote7 int 
+quote19 quote19 quote27 non quote15 nls quote15 2 quote27 
+delegate 
+imap 
+find the 
+quote7 the 
+long 
+update the 
+equal 
+charset 
+quote19 quote19 quote11 
+have been 
+use file 
+they are 
+org quote14 argouml quote14 uml quote14 diagram quote14 ui 
+that is 
+add a 
+quote18 quote0 
+i quote14 
+were 
+io 
+quote19 quote19 a 
+extra 
+well 
+methods use 
+p quote12 quote22 quote22 
+we do 
+sub 
+org quote14 argouml quote14 uml quote14 diagram quote14 ui quote14 
+quote19 quote19 todo quote9 this 
+quote7 0 
+quote19 quote19 check that 
+profile 
+quote22 todo quote9 this 
+mouse 
+quote19 quote19 load 
+quote19 quote19 first 
+edit 
+copied from 
+standard 
+quote19 quote19 initialize 
+begin 
+quote8 see org quote14 columba quote14 core quote14 
+we quote6 ll 
+quote0 quote10 
+quote14 class 
+actions 
+loaded 
+string quote5 quote22 
+emf 
+9 
+to get 
+factory 
+an exception 
+quote22 quote8 see org quote14 columba quote14 core quote14 
+cancel 
+datatype 
+rather 
+at least 
+it quote14 
+place 
+process the 
+bounds 
+association 
+quote5 quote22 quote22 
+quote14 quote22 quote11 
+the original 
+quote13 quote13 quote13 
+quote19 quote19 fill 3 of value quote4 byte quote5 
+everything 
+in case 
+components 
+import 
+fixed 
+quote22 quote22 quote4 
+is no 
+apache 
+this is a 
+classpath 
+quote5 quote10 quote22 quote19 
+alter 
+quote19 quote19 quote3 quote3 quote3 quote19 quote19 quote3 quote3 quote3 
+7 
+quote19 quote19 fill 2 of value quote4 byte quote5 quote15 
+java quote14 lang quote14 string quote5 quote22 
+used by 
+pattern 
+quote14 quote11 p quote12 
+6 
+used for 
+quote14 quote11 
+quote11 quote13 
+be null 
+headers 
+deleted 
+remember 
+quote19 create the 
+quote12 quote22 quote22 
+clause 
+we want 
+com quote14 
+of value quote4 byte quote5 quote15 87 quote19 quote19 fill 
+itself 
+quote4 quote22 
+quote3 quote19 quote19 quote3 quote3 quote3 
+normal 
+quote26 quote0 
+table quote14 
+quote19 quote19 create the 
+quote19 quote19 checkstyle quote9 visibilitymodifier off 
+there is no 
+r 
+1 quote5 
+the collection 
+a single 
+etc 
+stop 
+renderer 
+quote5 quote22 quote22 quote8 
+quote19 quote19 checkstyle quote9 visibilitymodifier off quote15 bc 
+errors 
+background 
+children 
+notation 
+lines 
+stuff 
+means 
+quote14 quote22 quote22 quote8 
+name of 
+continue 
+calculate 
+take 
+quote7 or 
+quote19 quote19 quote15 quote12 
+this should 
+classifier 
+lock 
+quote14 quote11 p quote12 quote22 
+quote19 quote19 empty 
+no need to 
+interested 
+directly 
+fix 
+quote19 add the 
+4 quote14 
+calendar 
+quote19 quote19 skip 
+quote6 ve 
+quote19 quote19 in 
+application 
+guaranteed to 
+toolbar 
+12 
+mri 
+quote19 quote19 add the 
+null quote7 
+optional 
+quote14 5 
+temporary 
+statement 
+tag 
+quote11 p quote12 quote22 quote22 
+quote12 quote22 quote11 p 
+quote19 quote19 check for 
+force 
+image 
+to a 
+the target 
+3 of 
+updated 
+quote7 use 
+mark 
+chart 
+org quote14 columba quote14 core quote14 gui quote14 
+part of 
+bytes 
+location 
+error quote14 
+need to be 
+quote11 code quote12 
+quote11 quote19 code quote12 
+running 
+extension 
+deprecated 
+segment 
+quote19 quote19 draw the 
+initialized 
+to avoid 
+quote19 quote19 find 
+account 
+quote14 if 
+complete 
+bottom 
+emf quote14 
+relative 
+1 quote14 4 
+org quote14 eclipse quote14 emf quote14 
+java quote14 util quote14 
+the tooltip 
+syntax 
+look for 
+framework 
+post 
+give 
+there was 
+be used 
+filename 
+doc quote15 
+the listeners 
+quote22 java quote14 lang quote14 object 
+quote20 quote21 
+quote15 user quote15 doc quote15 quote15 quote12 quote22 
+quote7 org quote14 argouml quote14 cognitive quote14 
+fail 
+quote19 quote19 there 
+tree quote14 
+quote19 quote19 to change 
+quote5 quote19 
+disable 
+got 
+this quote14 
+won 
+quote4 javax quote14 
+quote14 quote21 
+handler 
+quote15 doc 
+own 
+for now 
+instance variables 
+quote14 string quote5 
+quote5 quote9 
+fw 
+define 
+break 
+throws 
+small 
+strings 
+quote19 quote19 can 
+won quote6 t 
+unique 
+quote0 quote19 
+quote22 quote11 quote13 quote15 quote15 
+be a 
+correctly 
+quote14 apache quote14 
+the command 
+trigger 
+is being 
+quote19 quote19 guaranteed 
+control 
+interested in 
+quote5 quote5 quote10 quote19 quote19 
+testcase quote29 
+the quote22 
+quote22 quote8 see com quote14 
+safe 
+interface quote14 
+quote4 java quote14 lang quote14 object quote7 
+setting 
+quote29 isvalidelement quote4 
+conversion 
+false quote5 
+the given 
+0 quote5 
+not a 
+sending 
+protected 
+todoitem 
+mockdatabasemetadata 
+quote7 org quote14 argouml quote14 
+the object 
+mapping 
+under 
+subclasses 
+quote4 object 
+value quote7 
+quote7 int quote5 quote22 
+quote19 quote19 questionmark questionmark 
+management 
+constraint 
+we quote6 ve 
+if it is 
+bug 
+quote19 ensure 
+quote6 t have 
+an error 
+transaction 
+b quote14 
+junit quote14 framework quote14 
+compatibility 
+then we 
+quote14 xml 
+missing 
+around 
+shouldn quote6 t 
+implements 
+rather than 
+quote19 quote19 just 
+style 
+quote2 quote8 
+org quote14 columba quote14 mail quote14 folder quote14 
+port 
+quote5 quote19 quote19 
+tick 
+exit 
+enabled 
+matching 
+this data type 
+quote11 quote13 quote15 
+instead of 
+related 
+constant 
+keys 
+ocl 
+defer 
+tell 
+are interested 
+quote19 quote19 ensure 
+nothing quote14 
+task 
+here quote7 
+quote9 quote0 
+gets 
+since we 
+inner class 
+notify 
+to return 
+quote22 quote15 
+quote19 quote19 convert 
+did 
+join 
+quote14 2 
+option 
+otherwise quote7 
+debug 
+quote19 quote19 set up 
+quote14 imap quote14 
+here quote14 
+quote19 quote19 it 
+quote2 quote8 link 
+this event 
+a valid 
+things 
+quote22 quote8 see junit quote14 framework quote14 testcase quote29 
+remove the 
+those that 
+setup quote4 
+quote8 link 
+folder quote14 
+quote19 read 
+api quote14 
+jruby 
+passed 
+quote13 quote15 quote15 
+unless 
+issue 
+creating 
+merge 
+quote22 quote22 quote8 see junit quote14 framework quote14 testcase quote29 
+quote19 quote19 set the tooltip 
+to create 
+the property 
+threads 
+invalid 
+tooltip text 
+are interested in 
+checks 
+org quote14 apache quote14 
+sure that 
+check that the 
+based on 
+rest 
+quote19 build 
+thing 
+instances 
+interested in this 
+don quote6 t want 
+quote14 quote11 p quote12 quote22 quote22 
+m 
+quote14 error 
+quote19 quote19 set the tooltip string quote9 
+quote6 t want 
+offset 
+by default 
+quote19 quote19 ignored 
+quote27 quote0 
+quote14 folder 
+the event 
+figs 
+labels 
+apply 
+present 
+sort 
+help 
+subclass 
+the old 
+if there are 
+targetlistener 
+ensure that 
+quote3 quote21 
+makes 
+quote4 java quote14 lang quote14 string 
+quote14 3 
+wrong 
+quote14 0 
+resources 
+failed 
+used in 
+this data 
+class quote14 
+default value 
+destination 
+minimum 
+those that are 
+quote19 quote19 build 
+quote13 quote15 
+quote9 we 
+quote19 quote19 fill 2 of value quote4 byte quote5 33 
+utf 
+adapter 
+quote19 quote19 nothing 
+instance of 
+it to 
+quote4 quote22 java quote14 
+quote19 write 
+jmeter quote14 
+one quote14 
+so we can 
+quote19 start 
+hint 
+3 quote14 
+int quote7 int quote5 quote22 
+net quote14 sourceforge quote14 squirrel quote17 sql quote14 fw quote14 
+utf quote15 
+if a 
+quote15 8 
+catch 
+quote7 because 
+a non quote15 null 
+quote9 added 
+mouseevent 
+last to first 
+global 
+do the 
+if not 
+quote7 boolean 
+matches 
+helper 
+targetlistener quote29 
+future 
+quote4 quote5 quote10 quote19 quote19 
+setup quote4 quote5 
+utf quote15 8 
+in this event 
+quote14 api quote14 
+do this 
+works 
+warning 
+builder 
+cannot be 
+updates 
+would be 
+visibility 
+quote14 plugin quote14 
+cached 
+quote19 quote19 quote17 
+plain 
+have the 
+h 
+quote19 questionmark 
+quote6 t be 
+log quote14 
+quote19 code 
+is an 
+quote19 quote19 execute 
+quote22 java quote14 lang quote14 object quote7 
+quote14 error quote14 
+if it quote6 s 
+logic 
+quote19 quote19 start 
+digits 
+quote19 quote19 case 
+lower 
+interface quote14 quote22 
+specify 
+to handle 
+0 quote7 0 
+it will 
+real 
+general 
+we use 
+edge 
+quote23 quote23 
+quote19 quote19 look 
+from interface 
+l 
+way to 
+via 
+not needed 
+quote15 quote12 quote22 
+do nothing quote14 
+types quote14 
+or not 
+seems 
+trim 
+value is 
+the end of 
+quote16 0 
+dir 
+quote19 quote19 questionmark 
+module 
+quote19 public 
+to see 
+quote14 x 
+there is a 
+quote19 quote19 those 
+javax quote14 management quote14 
+quote14 1 
+prefix 
+1 quote7 
+maybe 
+quote19 quote19 special 
+quote14 quote22 quote22 quote8 param 
+spec 
+primitive 
+quote7 not 
+nothing to 
+5 quote14 
+mysql 
+document 
+2002 
+org quote14 tigris quote14 gef quote14 graph quote14 
+check the 
+this is the 
+pane 
+fetch 
+example 
+do we 
+we could 
+quote19 quote19 we don quote6 t 
+quote19 quote19 read 
+quote2 quote17 
+handled 
+moved 
+shown 
+mouselistener 
+able 
+boolean quote5 
+quote12 quote19 
+limit 
+container 
+refresh 
+using the 
+quote19 quote19 remember 
+quote15 quote19 
+system quote14 
+quote14 table quote14 
+arg 
+quote4 org quote14 columba quote14 
+fdietz 
+stored 
+create a new 
+invoke 
+saved 
+quote22 quote11 p quote12 
+getchildren quote4 
+down 
+quote14 graph quote14 
+quote22 quote8 see javax quote14 swing quote14 table quote14 
+quote15 quote19 quote19 
+quote19 quote19 allow 
+if necessary 
+the string 
+resolve 
+xxx 
+equals 
+tabs 
+quote19 quote19 write 
+iso 
+superclass 
+loading 
+quote7 as 
+cast 
+full 
+integer 
+is called 
+quote4 javax quote14 swing 
+iplugin 
+quote29 getchildren quote4 
+null quote14 
+quote4 quote5 quote7 
+quote19 quote19 public 
+made 
+questionmark questionmark questionmark 
+quote14 ocl quote14 
+for all 
+against 
+back to 
+quote17 name 
+allows 
+the right 
+whole 
+wait 
+doing 
+quote19 quote19 done quote19 quote19 done 
+more than 
+anyway 
+title quote16 
+sampler 
+inside 
+there quote6 s 
+quote14 title 
+quote3 quote19 
+a file 
+we can quote6 t 
+last to 
+provide 
+quote4 0 
+file quote14 
+quote4 javax quote14 swing quote14 
+tablemodel 
+had 
+quote19 quote19 tooltip 
+focus 
+a class 
+iterate 
+create an 
+shortcut 
+driver 
+quote19 quote19 done 
+java quote14 awt quote14 event quote14 mouseevent 
+collections 
+the source 
+config 
+quote19 quote19 i 
+quote4 object quote5 
+string quote9 
+able to 
+descriptor 
+quote7 irubyobject 
+the other 
+quote4 javax quote14 swing quote14 event quote14 
+quote3 quote19 quote19 
+we know 
+quote0 quote7 quote0 
+0 quote14 
+border 
+a different 
+the sql 
+retrieve 
+proper 
+the project 
+ant 
+quote14 title quote16 
+quote19 quote19 we have 
+nullable 
+quote19 quote19 quote15 quote19 quote19 
+quote19 quote19 but 
+to first 
+read the 
+very 
+but it 
+quote16 quote12 
+quote14 graph 
+type quote14 
+undo 
+locale 
+quote14 critic 
+org quote14 argouml quote14 cognitive quote14 critics quote14 critic 
+quote7 int quote7 
+quote19 quote19 switch 
+class quote7 
+quote22 quote15 quote15 
+quote7 this 
+quote14 table 
+net quote14 sourceforge quote14 squirrel quote17 sql quote14 plugins quote14 
+starting 
+lists 
+uml2 
+buttons 
+the parent 
+case of 
+the actual 
+propertychangeevent 
+perhaps 
+the type 
+quote6 t need 
+into a 
+absolute 
+name quote14 
+quote19 copy 
+to check 
+http quote9 
+quote22 quote8 author 
+uml 2 
+quote19 quote19 done quote19 quote19 done quote19 quote19 done 
+quote4 java quote14 awt quote14 event quote14 mouseevent 
+a string 
+false quote5 quote10 
+happens 
+quote19 is 
+needed for 
+additional 
+quote19 quote19 these 
+org quote14 argouml quote14 cognitive quote14 critics 
+common 
+org quote14 apache quote14 jmeter quote14 
+propertychangeevent quote5 
+pre 
+quote19 quote19 is 
+quote22 and 
+plugins quote14 
+meta 
+http quote9 quote19 quote19 
+quote19 delete 
+uid 
+creation 
+record 
+trailing 
+we get 
+true quote7 
+quote19 disable 
+could be 
+supports 
+included 
+set to 
+we only 
+msg 
+ends 
+such 
+let quote6 s 
+value quote14 
+propertychangeevent quote5 quote22 
+quote3 quote22 
+jdbc 
+quote19 or 
+quote19 quote19 look for 
+quote19 quote19 done quote19 quote19 done quote19 quote19 
+the previous 
+quote0 quote14 
+true quote5 
+quote14 hint quote16 
+getting 
+quote4 quote22 java quote14 lang quote14 
+exceptions 
+quote4 java quote14 beans quote14 
+be called 
+org quote14 argouml quote14 cognitive quote14 critics quote14 
+uml 1 
+quote19 quote19 copy 
+15 
+verify 
+reached 
+quote4 i 
+quote19 quote19 select 
+this will 
+quote19 store 
+quote9 this is 
+quote22 quote22 the 
+the method 
+the case 
+quote14 we 
+use a 
+quote15 2002 quote9 
+provided 
+to find 
+defaults 
+quote14 quote22 todo 
+one of 
+quote19 quote19 int 
+auto 
+tudresden quote14 ocl quote14 
+uml 1 quote14 
+enter 
+generator 
+quote19 quote19 quote15 quote19 quote19 quote15 quote19 quote19 
+quote19 quote19 generate 
+though 
+good 
+to see if 
+quote19 close 
+quote11 tr quote12 quote22 quote11 
+quote12 quote22 quote11 quote19 tr quote12 
+end of the 
+quote19 quote19 must 
+quote14 quote22 todo quote9 
+quote19 end of 
+quote19 quote19 delete 
+reference to 
+classloader 
+sent 
+is null 
+n quote14 
+quote19 quote19 since 
+the result 
+quote14 plugins 
+inputstream 
+comments 
+runtime 
+quote19 quote19 new 
+quote4 quote22 java quote14 lang quote14 object 
+modelimplementation 
+specifies 
+to set 
+quote15 2002 
+manager 
+quote19 quote19 end of 
+quote19 quote19 store 
+quote19 quote19 otherwise quote7 
+to return a 
+to ensure 
+print 
+the correct 
+if any 
+commands 
+features 
+beans quote14 propertychangeevent 
+fall through 
+16 
+bound 
+iterator 
+if we are 
+quote19 quote19 quote18 
+structure 
+now quote7 
+quote4 this 
+negative 
+overridden 
+registered 
+not the 
+quote19 quote19 if there is 
+argument checking 
+quote19 quote19 close 
+quote4 string 
+quote16 quote16 null 
+dependency 
+javax quote14 swing quote14 tree quote14 
+n quote14 b 
+etc quote14 
+to allow 
+upper 
+quote19 quote19 try to 
+split 
+quote7 0 quote7 
+since the 
+by a 
+beans quote14 propertychangeevent quote5 quote22 
+java quote14 beans quote14 propertychangeevent 
+catalog 
+true quote5 quote10 
+quote7 just 
+poster 
+the plot 
+jmx 
+includes 
+quote19 quote19 fill 4 of value quote4 byte quote5 
+quote19 quote19 ok 
+tablemodel quote29 
+stroke 
+generic 
+bad 
+method is 
+language 
+quote4 org quote14 argouml quote14 
+quote19 quote19 not needed 
+quote7 string 
+n quote14 b quote14 
+see org quote14 eclipse quote14 
+to quote19 
+nested 
+nothing to do 
+quote10 quote19 quote19 quote3 
+quote27 quote27 
+special case 
+the db 
+primary 
+progress 
+quote14 tree quote14 
+make sure that 
+here questionmark 
+quote5 questionmark 
+out of 
+quote19 when 
+quote11 tr quote12 quote22 quote11 td 
+quote11 quote19 td quote12 quote22 quote11 quote19 tr quote12 
+treemodel 
+test sending 
+starts 
+problems 
+java quote14 beans quote14 propertychangeevent quote5 quote22 
+quote12 quote19 quote19 
+quote14 b 
+quote7 irubyobject quote7 
+mouselistener quote29 
+however 
+shared 
+quote19 tr 
+binary 
+quote0 quote15 
+tablename 
+loader 
+quote13 quote13 quote13 quote13 
+the name of 
+the root 
+condition 
+response 
+static final 
+as well 
+java quote14 lang quote14 object quote7 java quote14 
+f 
+axes 
+aren quote6 t 
+java quote14 lang quote14 object quote7 org quote14 
+region 
+critic quote29 
+check if the 
+cascade 
+quote22 quote8 see org quote14 eclipse quote14 
+quote22 quote8 see javax quote14 swing quote14 event quote14 
+if you 
+be done 
+controller 
+none 
+file name 
+list quote14 
+don quote6 t have 
+void 
+layout 
+jdk 
+of all 
+null quote5 
+quote17 quote17 
+quote4 i quote14 e 
+jruby quote15 
+rubyclass 
+facade 
+quote4 int quote7 
+we have a 
+constructors 
+todo quote9 we 
+java quote14 lang quote14 object quote7 org quote14 argouml quote14 
+newline 
+to quote19 quote19 
+type of 
+extent 
+checkbox 
+operations quote14 
+quote4 object quote5 quote22 
+automatically 
+explicitly 
+quote0 quote5 quote5 
+oracle quote14 
+rfc 
+throw an 
+alter table 
+quote8 see org quote14 columba quote14 core quote14 gui quote14 
+in quote15 cell 
+quote19 user 
+quote15 cell 
+quote19 quote19 calculate 
+quote7 etc 
+leave 
+quote7 no 
+quote19 quote19 when 
+on a 
+segments 
+listen 
+quote19 quote19 fill 3 of value quote4 byte quote5 quote15 
+we do not 
+whitespace 
+quote14 b quote14 
+quote0 quote5 quote5 quote10 
+note that 
+noop 
+quote16 quote4 
+ascii 
+a space 
+quote14 critic quote29 
+the values 
+quote20 oracle 
+arrays 
+longer 
+quote21 quote5 
+dynamic 
+a quote0 
+uml 2 quote14 
+after the 
+quote22 quote15 quote15 quote15 
+quote14 the 
+quote15 quote15 quote22 
+org quote14 columba quote14 core quote14 gui quote14 util quote14 
+quote9 quote2 
+address 
+reason 
+the test 
+ecore 
+to contain 
+we will 
+since it 
+if no 
+calling 
+and quote19 
+page 
+11 
+outline 
+propertychangelistener 
+independence 
+didn quote6 t 
+testing 
+xmi 
+20 
+reading 
+quote4 e 
+is set 
+quote14 quote0 
+be the 
+we must 
+and add 
+quote4 java quote14 beans quote14 propertychangeevent quote5 quote22 
+to delete 
+quote15 quote15 quote15 quote15 quote15 quote15 quote22 
+modified 
+quote7 java quote14 lang quote14 string 
+host 
+quote7 java quote14 lang quote14 object 
+quote4 quote22 java quote14 lang quote14 object quote7 
+class quote5 
+hibernate 
+disabled 
+compare 
+if they 
+quote4 i quote14 e quote14 
+quote9 quote9 
+expect 
+quote19 as 
+deal 
+quote22 create 
+this is not 
+name of the 
+identifier 
+eval 
+quote30 quote30 
+if we have 
+to folder 
+quote4 java quote14 lang quote14 string quote5 quote22 
+class name 
+quote0 quote19 quote19 
+side 
+quote19 quote22 the 
+called from 
+2003 
+dbcopy 
+quote15 quote15 quote15 quote22 
+quote19 string 
+quote19 quote19 user 
+quote22 quote22 quote8 see javax quote14 swing quote14 event quote14 
+quote7 int quote7 int 
+is this 
+jpanel 
+paths 
+builder quote14 
+quote0 quote11 
+instance quote14 
+4 of 
+quote16 show 
+backwards 
+err 
+quote14 javajetinc 
+the content 
+quote19 quote19 string 
+quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote22 
+extend 
+quote19 all 
+fragment 
+quote19 quote4 
+quote19 log 
+to read 
+quote19 quote19 init 
+closure 
+named 
+quote25 
+is only 
+quote19 show 
+because we 
+we don quote6 t want 
+change the 
+field is 
+section 
+quote19 quote19 nothing to 
+multipart 
+quote26 r 
+31 
+quote19 quote19 test sending 
+representation 
+initialization 
+if this is 
+set up the 
+quote19 quote19 as 
+hierarchy 
+assert 
+timestamp 
+quote19 quote19 all 
+this needs 
+blob 
+jtextarea 
+finally 
+care 
+much 
+going 
+private static 
+we want to 
+quote7 new 
+quote19 quote19 log 
+quote19 replace 
+that it 
+quote19 quote19 i18n quote20 oracle quote14 
+export 
+quote9 add 
+fignode 
+release 
+packages 
+quote19 quote19 quote4 
+quote13 quote22 
+find a 
+quote22 org 
+quote22 quote15 quote15 quote15 quote15 quote15 quote15 
+simply 
+sets 
+quote8 author fdietz 
+quote19 quote19 need 
+changing 
+fact 
+replaced 
+three 
+quote23 ee quote23 
+quote19 quote19 we need 
+equals quote4 
+definition 
+workaround 
+properly 
+borderlayout 
+but we 
+quote4 e quote14 g 
+quote20 quote15 
+iso quote15 
+quote22 org quote14 
+quote19 quote19 done quote19 quote19 
+quote19 quote19 can quote6 t 
+ee 
+to add 
+quote10 quote19 quote19 quote19 
+increment 
+insets 
+same as 
+quote10 quote19 quote19 quote19 quote19 
+wizard 
+compiler 
+quote9 what 
+quote19 quote19 nothing to do 
+converted 
+preferences 
+trying 
+known 
+quote15 o 
+is done 
+the code 
+guisettingstabinterface 
+consider 
+prevent 
+appear 
+java quote14 beans quote14 propertychangelistener 
+quote4 e quote14 g quote14 
+quote19 quote22 todo 
+sub quote15 
+associations 
+0 quote7 0 quote7 
+quote19 quote20 
+state quote14 
+the diagram 
+it was 
+quote19 quote19 quote27 non quote17 nls quote15 1 quote27 
+quote22 quote15 quote15 quote15 quote15 quote15 quote15 quote15 
+numbers 
+me 
+recent 
+quote22 quote22 this 
+editable 
+load the 
+has a 
+quote4 false 
+not found 
+quote10 quote10 
+name quote7 
+associated 
+looking 
+compute 
+add an 
+quote19 quote19 quote20 
+the static 
+command line 
+performance 
+report 
+parser quote14 
+if there was 
+quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote22 
+guisettingstabinterface quote29 
+lazily 
+uml 1 quote14 4 
+custom 
+previously 
+less 
+requires 
+8859 
+ejb 
+quote19 n 
+quote14 filter 
+width quote16 quote0 33 quote28 quote0 
+a list 
+we just 
+when we 
+don quote6 t need 
+best 
+stereotypes 
+model element 
+quote4 false quote5 
+track 
+quote19 quote19 test sending data 
+quote19 quote19 setup 
+quote19 quote19 some 
+notationprovider 
+the number 
+v 
+entities 
+nil 
+kind 
+the main 
+cause 
+require 
+figure 
+quote14 treemodel 
+quote21 quote19 
+quote19 quote19 enable 
+here because 
+clob 
+memory 
+the appropriate 
+see org quote14 eclipse quote14 emf quote14 
+quote19 quote19 let 
+up to 
+logging 
+even if 
+quote7 quote26 
+quote0 quote12 ebcdic 
+quote19 2 
+quote9 check 
+quote22 quote11 p quote12 quote22 
+wrap 
+if we quote6 
+be able 
+it doesn quote6 t 
+to load 
+quote22 now 
+quote8 see org quote14 columba quote14 mail quote14 folder quote14 
+nulls 
+overwrite 
+be created 
+quote4 false quote5 quote10 
+is in 
+quote4 quote8 author 
+point quote14 
+quote22 quote22 quote8 author 
+node quote14 
+quote22 a 
+an array 
+indicate 
+construct 
+large 
+corresponding 
+quote19 quote19 check that the 
+2 quote7 
+quote6 s not 
+dialect 
+ast 
+java quote14 lang quote14 object quote7 java quote14 lang quote14 
+quote0 quote18 quote19 quote19 
+umlcomboboxmodel 
+quote8 see org quote14 apache quote14 
+system quote14 err 
+deal with 
+to keep 
+file quote7 
+quote16 error 
+instruction 
+valid elements for 
+application quote14 
+quote15 begin 
+quote15 2003 
+effect 
+the line 
+the output 
+start of 
+a reference 
+quote7 we need 
+quote4 e quote14 
+a bit 
+quote14 5 quote14 
+quote21 quote19 quote19 
+quote14 class quote5 
+getinstance quote4 
+1 quote3 
+short 
+tool 
+parsing 
+quote15 2003 quote9 
+notation quote14 
+quote19 quote19 private static 
+shape 
+size of 
+session quote14 
+quote0 quote18 quote19 quote19 quote0 
+contact 
+did not 
+quote19 quote19 clear 
+unknown 
+displayed 
+according 
+quote22 quote8 see org quote14 eclipse quote14 emf quote14 
+quote22 quote8 see org quote14 apache quote14 
+execute the 
+quote19 quote19 replace 
+quote19 quote19 system 
+quote22 quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 quote15 
+setborder quote4 
+quote19 quote19 assume 
+quote19 quote6 
+quote22 org quote14 argouml quote14 cognitive quote14 
+quote15 based 
+quote2 1 
+procedure 
+frame quote14 
+jump 
+priority 
+quote19 quote19 show 
+redo 
+quote19 quote22 todo quote9 
+quote5 quote10 quote19 quote19 quote19 
+modelelement 
+quote15 end 
+quote15 level 
+ebcdic 
+quote12 quote22 quote11 tr quote12 quote22 quote11 
+rb 
+is quote19 quote19 
+need a 
+getinstance quote4 quote5 
+these are 
+quote5 quote10 quote19 quote19 quote19 quote19 
+be able to 
+occur 
+quote6 t want to 
+todo quote9 this is 
+done quote19 quote19 
+archive 
+quote19 quote19 fall 
+the owner 
+remaining 
+chars 
+quote14 println quote4 
+quote19 quote19 lazily create 
+quote0 quote0 
+quote19 quote19 does 
+quote19 quote19 or 
+in order 
+method to 
+quote19 quote19 system quote14 err quote14 
+there are no 
+and return 
+quote14 quote22 quote22 todo quote9 
+the node 
+todo quote4 quote8 author 
+java quote14 lang quote14 string quote7 
+for an 
+restore 
+org quote14 columba quote14 mail quote14 imap quote14 
+quote11 code quote12 casexxx quote11 quote19 code quote12 
+icon for 
+quote14 quote22 quote11 p quote12 
+don quote6 t want to 
+quote12 quote19 quote19 quote11 
+not used 
+the whole 
+click 
+big 
+front 
+quote6 t do 
+quote19 quote19 add a 
+quote14 getinstance quote4 
+quote19 quote19 quote16 quote16 quote16 quote16 quote16 quote16 quote16 
+quote6 quote7 
+between the 
+horizontal 
+private static final 
+the top 
+quote7 quote19 quote19 so 
+it can 
+handling of 
+quote15 to quote15 
+special handling 
+composite 
+read quote15 
+maximum 
+adjust 
+closed 
+says 
+collect 
+therefore 
+convenience 
+quote19 quote19 system quote14 err quote14 println quote4 
+not null 
+the path 
+null result 
+it as 
+than the 
+at the end 
+quote14 it 
+it does 
+save the 
+protocol 
+hash 
+quote19 quote19 n quote14 b 
+quote19 quote19 quote16 quote16 quote16 quote16 quote16 quote16 quote16 quote16 
+quote13 quote16 
+quote19 quote19 reset 
+laf 
+dirty 
+quote0 quote5 quote10 quote19 
+scale 
+pool 
+this to 
+quote5 quote21 
+true if 
+as an 
+quote21 quote20 quote15 
+providers 
+fire 
+treated 
+regular 
+quote18 quote19 
+assume that 
+quote4 org quote14 argouml quote14 cognitive quote14 
+boolean quote5 quote22 
+library 
+unit 
+including 
+inserted 
+quote19 quote19 todo quote9 we 
+init quote4 
+a null 
+quote14 getinstance quote4 quote5 
+precision 
+interval 
+make the 
+please 
+perform 
+javax quote14 swing quote14 tree quote14 treemodel 
+outside 
+hold 
+quote8 see org quote14 apache quote14 jmeter quote14 
+quote14 println quote4 quote0 
+how to 
+quote4 if 
+todo quote9 what 
+quote22 quote8 return the 
+persistence 
+the block 
+quote19 quote19 find the 
+build the 
+quote16 quote0 12 
+quote22 org quote14 argouml quote14 
+we have to 
+seems to 
+quote19 quote19 n quote14 b quote14 
+persister 
+scan 
+quote0 quote5 quote10 quote19 quote19 
+it is not 
+where the 
+100 
+org quote14 columba quote14 core quote14 filter quote14 
+result quote14 
+quote12 quote0 
+quote18 quote19 quote19 
+receiver 
+interfaces 
+directories 
+quote19 quote19 disable 
+facade quote14 
+quote14 facade 
+uids 
+quote15 quote15 quote15 quote15 quote15 quote19 quote19 
+quote19 quote19 todo quote4 quote8 author 
+description 
+quote8 return the 
+quote19 quote19 quote15 quote19 quote19 int 
+a reference to 
+quote22 we 
+filter quote14 
+that will 
+are no 
+tudresden quote14 ocl quote14 parser quote14 
+msg quote14 
+tags 
+dependent 
+org quote14 argouml quote14 notation 
+the specified 
+elements for 
+quote14 notation quote14 
+quote19 quote19 if this 
+quote21 quote20 
+fignodemodelelement 
+metadata 
+reverse 
+quote22 quote22 quote8 return 
+quote14 parser quote14 
+metal 
+quotes 
+further 
+adds 
+quote22 quote8 see org quote14 apache quote14 jmeter quote14 
+quote19 quote19 i18n quote20 popupeditableiopanel quote14 
+quote19 quote19 system quote14 err quote14 println quote4 quote0 
+the call 
+and we 
+can quote6 t be 
+and quote19 quote19 
+quote14 notation 
+init quote4 quote5 
+layer 
+is already 
+quote17 w 
+if we quote6 re 
+quote5 and 
+quote19 quote19 system quote14 
+the tree 
+diagrams 
+times 
+add it 
+quote14 filter quote14 
+a problem 
+todo quote15 
+aliases 
+jtextfield 
+algorithm 
+to specify 
+setenabled quote4 
+that quote19 quote19 
+a special 
+iso quote15 8859 quote15 
+quote7 rubyclass 
+quote14 class quote5 quote10 
+hashcode 
+put quote4 
+failure 
+bits 
+quote14 facade quote14 
+2 quote5 
+scheme 
+viewer 
+modify 
+total 
+it quote6 s not 
+override quote14 
+the base 
+select the 
+is needed 
+so it 
+home 
+native 
+quote19 quote19 log quote14 
+propertychange 
+embedded 
+ask 
+impl 
+org quote14 argouml quote14 notation quote14 
+quote4 int quote7 int 
+quote19 quote19 need to 
+quote2 1 quote3 
+quote0 12 
+already been 
+quote7 i 
+quote13 quote13 quote13 quote13 quote13 
+quote7 quote22 java quote14 lang quote14 
+quote22 do 
+we cannot 
+the number of 
+fails 
+forward 
+quote14 quote14 quote14 quote19 quote19 
+quote14 quote14 quote19 
+signature 
+quote14 put quote4 
+syntax quote14 
+this point 
+quote5 quote0 
+duplicate 
+append quote4 
+quote10 quote10 quote10 
+quote9 this needs 
+quote19 quote19 used 
+quote14 message 
+flush 
+ones 
+than one 
+might be 
+quote6 d 
+columnname 
+to have 
+composer 
+documentlistener 
+hence 
+quote14 override quote14 javajetinc 
+we quote19 quote19 
+the end of the 
+quote19 quote19 parse 
+call quote14 
+quote19 quote19 keep 
+command quote14 
+set it 
+the rest 
+data quote7 
+quote9 should 
+quote7 try 
+quote19 then 
+quote19 file 
+blank 
+multi 
+category 
+where clause 
+quote19 quote19 xxx 
+quote7 but it 
+quote4 quote4 
+the list of 
+org quote14 columba quote14 api quote14 
+quote19 quote19 private static final 
+out the 
+criteria 
+vertical 
+annotations 
+sorting 
+store the 
+quote19 quote19 update the 
+drawing 
+beginning 
+newly 
+getname 
+quote19 quote19 fill 7 of value quote4 byte quote5 
+in quote15 
+do it 
+what we 
+in uml 
+quote19 quote19 note that 
+quote9 do 
+uml 2 quote14 x 
+handles 
+represent 
+enough 
+1 quote14 0 
+calculate the 
+quote10 quote3 
+quote19 quote19 file 
+quote19 quote19 put 
+quote19 class 
+bean 
+prepare 
+creates 
+think 
+not visible 
+quote19 quote19 will 
+quote19 else 
+the initial 
+dimension 
+the start 
+db quote14 
+quote14 java 
+quote15 quote15 quote15 quote19 quote19 
+remove all 
+trying to 
+quote8 generated 
+event quote9 
+quote19 quote19 quote16 quote16 quote16 
+quote15 to 
+to use the 
+quote6 quote14 
+platform 
+quote6 t use 
+quote15 private 
+quote19 quote19 an 
+org quote14 argouml quote14 cognitive quote14 todoitem 
+the name of the 
+4 quote14 5 
+sure we 
+quote4 true quote5 
+java quote14 lang quote14 object quote7 quote22 
+not yet 
+quote19 quote19 n 
+quote14 quote22 quote11 p quote12 quote22 
+quote7 use the 
+quote9 o quote15 
+contained 
+free 
+info quote14 
+quote19 quote19 then 
+and then 
+message quote14 
+should never 
+subject 
+of quote19 
+is not a 
+quote19 quote19 use the 
+providers quote14 
+jmeterguicomponent 
+push 
+quote22 quote22 todo quote9 this 
+a quote19 
+an existing 
+quote15 related 
+quote19 b 
+middle 
+useful 
+assign 
+and it 
+a series 
+quote3 quote22 quote19 
+quote4 quote8 author fdietz quote5 quote9 
+to work 
+quote19 verify 
+quote7 so we can 
+quote19 quote19 class 
+cycle 
+quote14 notationprovider quote29 
+o quote15 
+quote27 non quote15 nls quote15 2 quote27 quote19 quote19 
+quote9 o quote15 quote15 
+quote5 quote2 
+the selection 
+quote19 quote19 todo quote15 
+quote10 quote19 quote19 quote15 quote19 quote19 int 
+least one 
+identity 
+may have 
+4 quote14 5 quote14 
+may not 
+the uml 
+generated quote22 
+the adapter 
+object is 
+quote7 return 
+the loop 
+zoom 
+evaluate 
+flags 
+object quote7 quote22 
+color quote5 
+not supported 
+the destination 
+of quote19 quote19 
+the entity 
+bsh 
+points 
+org quote14 argouml quote14 notation quote14 providers 
+todo quote9 this needs 
+is one 
+settext 
+quote6 t support 
+value of 
+highlight 
+generation 
+considered 
+turn 
+no longer 
+quote15 quote15 quote15 quote15 quote19 quote19 
+make it 
+quote19 quote19 if it 
+not quote22 
+of the model 
+org quote14 eclipse quote14 emf quote14 codegen quote14 
+quote19 quote19 else 
+the constructor 
+quote6 s a 
+numeric 
+x quote15 
+quote19 quote19 notify 
+quote19 quote19 do not 
+threadcontext 
+reuse 
+caller 
+leading 
+clean 
+now we 
+align quote16 quote0 right quote0 quote12 
+class is 
+should not be 
+quote12 quote22 todo 
+quote3 quote19 quote19 quote3 
+start with 
+them quote14 
+this case 
+subsystem 
+plan 
+eof 
+zip 
+to quote15 
+returns the 
+treated as 
+quote4 quote5 quote5 quote10 quote19 quote19 
+quote19 quote19 verify 
+of an 
+are allowed 
+the gui 
+created quote14 
+quote7 1 
+register for 
+quote29 propertychange quote4 
+quote4 0 quote7 
+a better 
+it would 
+set of 
+quote16 display 
+quote13 quote19 
+the namespace 
+quote10 quote19 quote19 private 
+because of 
+quote19 quote19 that 
+package quote15 
+remember the 
+quote14 quote14 quote19 quote19 
+must not 
+rest of 
+sss 
+literal 
+rename 
+merge quote14 
+dummy 
+do we need 
+quote15 quote15 begin 
+logger 
+quote19 quote19 quote22 
+jlabel 
+rendering 
+checked 
+feel 
+org quote14 argouml quote14 notation quote14 providers quote14 
+package quote15 private 
+quote7 then we 
+sure the 
+according to 
+quote14 quote22 quote11 quote13 quote15 quote15 
+should we 
+quote7 boolean quote5 
+word 
+immediately 
+making 
+inner classes 
+attempt 
+causes 
+todo quote4 quote8 author fdietz quote5 quote9 
+little 
+quote14 getinstance quote4 quote5 quote14 
+quote19 quote19 determine 
+quote12 quote22 todo quote9 
+quote15 quote19 quote19 quote15 
+quote7 int quote7 int quote5 quote22 
+quote22 quote22 create 
+a quote19 quote19 
+quote14 color 
+the factory 
+declaration 
+wrapper 
+has no 
+end quote15 
+is always 
+the session 
+the above 
+the item 
+quote19 quote19 return the 
+quote10 quote17 
+quote15 quote15 end 
+seen 
+i quote6 
+be removed 
+quote9 quote0 quote18 
+quote9 why 
+quote4 true quote5 quote10 
+quote7 we need to 
+quote19 quote19 change 
+because the 
+io quote14 
+quote19 column 
+quote27 quote0 quote18 
+quote19 quote19 create filter 
+quote22 in 
+quote9 o quote15 quote15 quote15 quote15 
+testelement 
+escape 
+urls 
+enclosed 
+quote19 quote19 check if the 
+through the 
+edges 
+engine 
+provider 
+typecast 
+file is 
+we got 
+external 
+the contents 
+reset the 
+to implement 
+quote19 e 
+quote4 1 
+equivalent 
+getname quote4 
+various 
+abstract 
+extract 
+name quote19 
+quote9 move 
+questionmark quote5 
+quote7 create 
+make this 
+quote16 1 
+converting 
+expand 
+marker 
+utility 
+a dataset 
+quote14 string quote7 
+specify the 
+the standard 
+quote19 quote19 we need to 
+non quote17 
+order to 
+the array 
+the chart 
+quote6 t know 
+nov 
+ssl 
+quote19 quote19 todo quote4 quote8 author fdietz quote5 quote9 
+to remove 
+jfreechart 
+targets 
+quote19 after 
+t exist 
+that this 
+profiles 
+limited 
+the key 
+p quote12 quote22 todo quote9 
+basic 
+quote27 quote0 quote18 quote19 quote19 quote0 
+quote18 quote18 
+so that we 
+quote22 note 
+try a 
+encoded 
+hex 
+spaces 
+supplied 
+quote 
+quote15 quote15 o 
+throw an exception 
+more than one 
+quote22 implements 
+the second 
+settext quote4 
+quote15 quote22 
+activity 
+immutable 
+template 
+fine 
+jdk 1 quote14 
+ctor 
+backward 
+quote12 quote22 quote11 quote19 
+uimanager 
+then the 
+quote7 which is 
+called by 
+authority 
+the same as 
+documentevent 
+independent 
+except 
+early 
+collected 
+assumes 
+breaks 
+the stack 
+quote19 quote19 mark 
+ok quote7 
+there is one 
+quote22 quote8 see java quote14 beans quote14 
+this code 
+with no 
+quote19 quote19 after 
+backup 
+drag 
+decimal 
+quote14 3 quote14 
+quote19 quote19 force 
+if there is a 
+quote19 quote19 alter 
+quote13 quote19 quote19 
+getproperty 
+this quote5 quote10 
+have an 
+quote22 quote22 quote8 see org quote14 columba quote14 mail quote14 
+first time 
+quote6 t exist 
+quote15 quote15 quote15 quote15 o 
+save quote4 
+constraints 
+combo 
+temp 
+quote9 i18n 
+quote11 p quote12 quote22 todo quote9 
+quote14 quote22 quote8 
+not have 
+was a 
+here we 
+str 
+step 
+quote0 quote12 iso 
+at least one 
+doesn quote6 t exist 
+to update 
+todo quote9 should 
+quote7 java quote14 lang quote14 object quote5 quote22 
+to quote22 
+a simple 
+sun 
+necessary quote14 
+quote19 quote19 quote6 
+quote19 quote19 mri 
+quote19 quote19 column 
+sss fixme quote9 
+comparing 
+requested 
+self quote14 
+ie 
+seconds 
+uimanager quote14 
+a separate 
+documentevent quote5 
+jjtree 
+quote12 quote22 quote22 todo quote9 
+quote19 quote19 expected 
+in the list 
+the message 
+quote19 quote19 build the 
+not sure 
+letter 
+raw 
+os 
+quote19 quote19 quote16 quote16 
+a value 
+the minimum 
+interpreter 
+rb quote17 
+13 
+getproperty quote4 
+shutdown 
+jars 
+quote19 we quote6 
+not change 
+quote15 end quote15 
+this method is 
+borderlayout quote14 
+quote19 quote19 we can 
+don quote6 t know 
+version of 
+was not 
+quote19 quote19 shortcut 
+applied 
+compile 
+www 
+of operations 
+add all 
+quote4 x 
+quote11 p quote12 quote22 quote22 todo quote9 
+quote19 quote19 todo quote9 what 
+s quote5 
+quote14 this is 
+quote22 set 
+quote7 0 quote7 0 
+quote16 quote19 
+controls 
+validate 
+quote14 append quote4 
+quote19 value 
+array of 
+test for 
+it will be 
+reference to the 
+so quote7 
+clone quote4 
+5 quote7 
+be changed 
+schemas 
+shadow 
+only one 
+quote14 append 
+users 
+edited 
+hit 
+configure 
+ref 
+quote4 quote27 
+the command line 
+to this 
+content quote15 
+quote14 setenabled quote4 
+quote19 quote19 we quote6 
+strip 
+having 
+quote14 ui quote14 wizard 
+case quote14 
+quote4 or 
+in order to 
+now quote14 
+quote20 syntax quote14 
+quote19 could 
+quote7 borderlayout quote14 
+quote14 gui quote14 frame quote14 
+all of 
+if there is no 
+todo quote9 why 
+make sure the 
+quote19 quote19 add an 
+should have 
+quote19 quote19 here 
+quote22 todo quote9 this needs 
+0 quote7 0 quote7 0 
+null argument 
+an extra 
+quote19 quote19 sss 
+jedit 
+digit 
+quote12 quote22 quote11 td align quote16 quote0 right quote0 quote12 
+name and 
+up a 
+x quote7 
+a default 
+type quote7 
+however quote7 
+quote14 log 
+boundary 
+operator 
+warnings 
+quote16 quote16 0 
+quote4 org quote14 columba quote14 core quote14 
+quote16 true 
+the series 
+element quote14 
+positions 
+quote19 quote19 because 
+no default 
+part of the 
+with an 
+rectangle 
+quote13 quote13 quote13 quote13 quote13 quote13 
+quote22 it 
+todo quote9 move 
+the directory 
+quote6 t need to 
+series with 
+batch 
+lazy 
+operations quote14 quote22 
+the dataset 
+check to 
+attachment 
+listening 
+ever 
+entire 
+away 
+working 
+warn 
+mechanism 
+clone quote4 quote5 
+b quote12 
+quote29 propertychange quote4 java quote14 beans quote14 
+is not visible 
+object quote7 int 
+quote22 test 
+quote4 and 
+arraylist 
+calendar quote14 
+c quote14 
+ss 
+actionhandler 
+plaf 
+icons 
+persistence quote14 
+pressed 
+init quote4 quote5 method 
+behaviour 
+treat 
+instantiate 
+finished 
+execution 
+is to 
+quote19 quote19 could 
+c quote5 
+quote16 quote19 quote19 
+quote22 quote16 quote16 
+super quote14 
+if there is one 
+quote27 quote0 quote10 
+blocks 
+email 
+this should be 
+quote19 quote19 see 
+the column 
+quote0 quote27 
+quote9 implement 
+to store 
+quote16 quote6 
+get quote4 
+quote22 to 
+view quote14 
+the url 
+in quote19 
+quote12 quote11 
+fill in 
+notification 
+outer 
+qualified 
+double quote15 
+quote15 3 
+return null 
+getname quote4 quote5 
+quote19 quote19 hack 
+resultset 
+multi quote15 
+filters 
+drive 
+remove quote4 
+quote22 of 
+quote14 quote15 tfm 
+18 
+quote19 quote19 fill 6 of value quote4 byte quote5 
+save quote4 quote5 
+quote19 quote19 e 
+quote14 quote22 quote22 quote8 return 
+min 
+updating 
+quote23 quote23 quote23 
+removing 
+download 
+appears 
+quote14 persistence quote14 
+transient 
+quote9 do we 
+quote19 quote19 fill 3 of value quote4 byte quote5 33 
+in which 
+specified in 
+mvw 
+screen 
+wants 
+coding 
+others 
+processed 
+work out 
+quote14 io quote14 
+quote14 put quote4 quote0 
+one of the 
+quote19 quote19 fill 10 of value quote4 byte quote5 
+for now quote7 
+jtextcomponent 
+confirm 
+executed 
+accept 
+belongs 
+groups 
+depends 
+op 
+magic 
+check to see if 
+quote29 propertychange quote4 java quote14 beans quote14 propertychangeevent quote5 quote22 
+class quote19 
+quote19 field 
+quote4 java quote14 lang quote14 object quote7 quote22 
+quote19 quote19 2 
+quote19 quote19 on 
+quote7 it is 
+initialize the 
+license 
+determine the 
+quote7 with 
+statements 
+quote4 s 
+to call 
+make sure we 
+quote22 quote22 quote8 see java quote14 beans quote14 
+new element 
+quote19 quote19 sss fixme quote9 
+be added 
+graphmodel 
+folders 
+singleton 
+quote5 quote5 quote10 quote22 
+string quote14 
+binding 
+the resource 
+message to 
+quote19 quote19 see if 
+quote19 quote19 no need 
+quote14 com 
+menu item 
+comma 
+your 
+java quote14 io quote14 
+writing 
+quote15 o quote19 quote19 
+menu quote14 
+b quote5 
+to make sure 
+quote14 quote11 p quote12 quote22 quote22 todo quote9 
+quote15 only 
+quote14 quote14 quote14 quote21 
+quote19 quote19 this is the 
+to display 
+allow the 
+ristretto 
+quote15 quote15 o quote19 quote19 
+name quote19 quote19 
+quote0 quote22 
+at the end of 
+represented 
+initializer 
+are used 
+the operation 
+quote19 quote19 the following 
+nullable quote7 
+meta quote15 
+a series with 
+quote6 quote19 
+quote7 etc quote14 
+quote19 quote19 quote3 quote3 quote3 quote19 quote19 quote2 quote2 quote2 
+putvalue quote4 
+quote7 0 quote5 
+represents 
+lookup 
+unused 
+dest 
+followed 
+quote19 quote19 field 
+null quote10 
+data point 
+for this data type 
+quote19 quote19 found 
+quote21 quote10 
+quote19 quote19 search 
+mime 
+modules 
+borderfactory 
+suite 
+quote17 icon 
+popup dialog 
+propertychangelistener quote29 propertychange quote4 
+panels 
+underlying 
+exact 
+come 
+recursively 
+important 
+versions 
+dependencies 
+lets 
+nice 
+impossible 
+efficient 
+i don quote6 t 
+to re quote15 
+from a 
+questionmark quote21 
+close the 
+always be 
+quote7 but we 
+quote14 properties 
+about the 
+ecore quote14 
+primary key 
+and feel 
+proc 
+connect 
+password 
+a child 
+quote19 quote19 adding 
+a message 
+dnd 
+object quote14 
+quote7 msg quote14 
+specified quote7 
+quote3 quote5 
+methods for 
+equal to 
+each class 
+are the 
+arity 
+attachments 
+ms 
+quote19 quote19 builder quote14 
+quote19 quote19 check the 
+quote14 so 
+editing this 
+quote5 is 
+this one 
+z 
+a newline 
+wait for 
+method for 
+for this data 
+quote19 extent 
+we don quote6 t have 
+quote7 quote6 
+quote15 quote15 quote15 quote15 o quote19 quote19 
+quote19 quote19 number of 
+added to 
+classifiers 
+volatile 
+day 
+methods quote19 
+clear the 
+quote19 quote19 do the 
+the conversion 
+quote19 quote19 fill 4 of value quote4 byte quote5 33 
+to support 
+handle the 
+quote12 quote22 quote8 
+the request 
+to save 
+quote19 quote26 
+based on the 
+quote15 bit 
+grid 
+broken 
+copy of 
+check to see 
+to get the 
+quote9 the 
+3 quote7 
+quote14 quote19 quote19 this 
+this quote5 
+hashtable 
+quote19 list 
+to give 
+in quote19 quote19 
+to show 
+quote4 which 
+quote19 quote19 create a new 
+quote19 quote19 value 
+cacheentry 
+bob 
+exactly 
+render 
+fully 
+needed to 
+change event 
+quote19 quote19 current 
+quote19 model 
+is selected 
+the existing 
+quote10 quote19 quote19 quote17 
+isselected 
+23 
+a collection 
+quote19 instance 
+beanshell 
+seem 
+nulls are 
+hide 
+depending 
+vector 
+look and feel 
+you can 
+the range 
+quote4 this quote5 quote10 
+hack to 
+we need a 
+for example 
+quote9 this should 
+match the 
+must have 
+quote19 quote19 iterate 
+the axis 
+the type of 
+quote19 quote19 number 
+comparing to 
+even though 
+quote14 ecore 
+show the 
+the element 
+have already 
+quote14 ecore quote14 
+quote0 is 
+not use 
+the system 
+that we can 
+org quote14 argouml quote14 cognitive quote14 ui 
+todo quote9 is 
+data as 
+the package 
+fall back 
+a good 
+www quote14 
+be set 
+get all 
+name is 
+quote4 quote5 quote7 msg quote14 
+the selected 
+to an 
+not nullable 
+concurrent 
+org quote14 columba quote14 ristretto quote14 
+quote14 calendar 
+the header 
+for quote19 quote19 
+look and 
+quote6 quote7 quote6 
+quote14 message quote14 
+the cache 
+imported 
+fileset 
+quote14 frame 
+get a 
+x quote16 
+5 quote14 2 
+karlpeder 
+handlers 
+legend 
+saving 
+mock 
+garbage 
+and quote22 
+todo quote9 do 
+a second 
+quote4 0 quote7 0 
+quote22 quote8 see java quote14 util quote14 
+sign 
+quote19 quote19 cannot 
+should be created 
+specification 
+during the 
+default quote7 
+to indicate 
+mutablegraphmodel 
+figedgemodelelement 
+matter 
+guardedby quote4 quote0 
+samples 
+sizes 
+provides 
+duplicates 
+closing 
+modification 
+purpose 
+populate 
+implementations 
+round 
+eliminate 
+quote9 comparing to 
+quote15 nov quote15 
+will not 
+just a 
+00 
+quote19 quote19 e quote14 
+t work 
+quote19 quote19 todo quote9 should 
+item label 
+an inner 
+quote19 table 
+quote19 quote19 list 
+bind 
+quote19 quote19 putvalue quote4 
+quote19 pass 
+quote14 calendar quote14 
+quote19 quote19 remove the 
+quote19 quote19 wait 
+quote14 length 
+quote22 note quote9 
+look at 
+already exists 
+figure out 
+quote10 quote19 quote19 quote27 non 
+quote19 quote19 returns 
+quote22 return 
+polygon 
+org quote14 argouml quote14 persistence quote14 
+path quote7 
+empty string 
+org quote14 eclipse quote14 emf quote14 ecore quote14 
+model quote19 extent 
+jabber 
+cc 
+to determine 
+string quote20 
+removed from 
+quote19 super 
+anchor 
+b quote17 
+don quote6 t need to 
+the script 
+quote13 quote16 null 
+org quote14 argouml quote14 cognitive quote14 ui quote14 
+maps 
+quote0 right 
+done with 
+at this 
+the java 
+quote19 quote19 which 
+returns a 
+role 
+textfield 
+referenced 
+rule 
+quote22 fixme 
+at this point 
+editing quote22 
+field is not 
+argo 
+var 
+written 
+quote14 setborder quote4 
+quote19 quote19 must be 
+o quote19 
+the encoding 
+quote22 quote22 test 
+size quote4 
+quote7 5 
+jbutton 
+quote19 quote19 model 
+quote9 quote9 quote16 
+checking quote14 
+manifest 
+the connection 
+rest of the 
+quote9 is 
+todolistlistener 
+across 
+detect 
+startup 
+sense 
+nulls are allowed 
+reasonable 
+quote29 selectionchanged quote4 org quote14 
+org quote14 argouml quote14 cognitive quote14 ui quote14 wizard 
+could not 
+to specify the 
+quote9 make 
+quote14 jar 
+quote6 t work 
+quote15 quote15 quote19 quote19 
+name quote16 
+empty dataset 
+for each class of the model 
+cursor 
+timeout 
+per quote15 
+has changed 
+quote19 insert 
+be quote19 quote19 
+must not be 
+only if 
+as we 
+created quote14 quote22 
+quote19 quote19 open 
+is required 
+in this case 
+quote0 alter 
+quote10 quote19 quote19 quote27 non quote15 nls quote15 1 quote27 
+is treated 
+the model quote19 extent 
+quote4 s quote5 
+namespace quote14 
+rubyclass quote7 
+contents of 
+quote7 otherwise 
+as it 
+quote14 class quote7 
+quote19 quote19 super 
+a directory 
+and continue 
+before the 
+quote15 type 
+borderfactory quote14 
+resize 
+quote19 quote19 no need to 
+quote17 quote17 quote17 quote17 quote17 
+work quote14 
+software 
+what is 
+parse the 
+a copy 
+attempt to 
+quote7 even 
+quote19 quote19 ensure that 
+try to use 
+log quote4 
+for both 
+quote7 quote19 quote19 but 
+cut 
+deletes 
+thus 
+classname 
+quote19 quote19 fill 10 of value quote4 byte quote5 quote15 
+links 
+in uml 2 
+quote19 quote19 this is a 
+threadcontext quote7 
+original value 
+quote7 threadcontext 
+not exist 
+quote14 quote14 quote21 
+node quote7 
+jan 
+newlines 
+virtual 
+tooltips 
+localize 
+sorted 
+quote16 false 
+do a 
+be created quote14 
+quote15 specific 
+mirror 
+which are 
+within the 
+many quote15 
+selected folder 
+there was no 
+float 
+but not 
+umldiagram 
+mouseclicked 
+accessors 
+obtain 
+vars 
+fast 
+explicit 
+likely 
+clearcase 
+started 
+delete when null quote16 quote12 
+quote7 threadcontext quote7 irubyobject quote7 
+quote22 quote8 see tudresden quote14 ocl quote14 
+quote19 quote19 quote8 guardedby quote4 quote0 
+methods quote19 quote19 
+the body 
+of the data 
+quote19 quote19 instance 
+it quote6 s a 
+quote19 quote19 may 
+creating a 
+quote19 view 
+can only 
+we may 
+quote19 quote19 insert 
+iana 
+instances of 
+quote19 quote19 assert 
+followed by 
+col 
+multiplicity 
+design 
+sep 
+quote19 quote19 table 
+to match 
+quote19 quote19 quote26 
+quote19 quote19 we are 
+if the user 
+project quote14 
+creation of 
+an object 
+the input 
+dialog quote14 
+case quote7 
+joins 
+theme 
+instanceof 
+suffix 
+note quote9 this 
+questionmark questionmark for 
+or the 
+org quote14 argouml quote14 application quote14 
+remove this 
+quote19 work 
+quote16 quote2 
+quote17 quote17 quote17 
+quote19 quote19 at 
+write the 
+string quote20 quote21 
+look up 
+point quote14 quote14 quote14 
+assignment 
+db2 
+install 
+dot 
+delay 
+remote 
+unix 
+quote4 java quote14 lang quote14 object quote7 java quote14 
+the index 
+quote7 y 
+quote4 0 quote7 0 quote7 
+need this 
+object quote7 int quote7 
+but the 
+the quote11 
+quote20 quote21 quote5 quote22 
+quote20 quote21 quote5 
+quote14 otherwise 
+tagged 
+span 
+tokens 
+re quote15 read 
+type of the 
+quote3 quote7 
+quote19 quote19 this will 
+quote5 to 
+irubyobject quote7 irubyobject 
+into an 
+2004 
+2001 
+quote14 9 
+the proper 
+quote22 not 
+quote6 quote9 
+selector 
+element should 
+quote17 quote17 quote17 quote17 
+there is an 
+needs an 
+basedir 
+configured 
+quote22 quote20 
+many quote15 to quote15 
+track of 
+quote19 quote19 pass 
+it is a 
+quote19 quote19 set up the 
+quote6 t find 
+but this 
+quote22 quote16 
+and set 
+renamed 
+new one 
+quote9 quote2 0 quote3 
+not in 
+read quote15 only 
+yes 
+specifically 
+assertequals quote4 
+with quote0 
+model quote19 
+enters 
+active 
+occurs 
+compatible 
+pointer 
+depend 
+pick 
+debugging 
+resolved 
+quote7 cacheentry 
+quote12 for 
+the exception 
+1 quote14 3 
+see if the 
+quote26 quote0 quote7 
+had to 
+quote14 quote22 quote22 quote8 author 
+there was a 
+just use 
+java quote14 awt quote14 dnd quote14 
+auto quote15 
+an inner class 
+the popup 
+quote19 quote19 field is 
+dnd quote14 
+keyword 
+quote14 command 
+a listener 
+true quote0 
+quote7 java quote14 lang quote14 string quote5 quote22 
+quote22 4 
+quote10 quote10 quote10 quote10 
+class of 
+the new element 
+buffer quote14 
+to the list 
+quote19 quote19 e quote14 g 
+quote19 quote19 throw 
+we quote6 re not 
+indexes 
+keyevent 
+prefs 
+action quote14 
+are added 
+it quote19 quote19 
+removed quote14 
+quote5 quote10 quote19 quote19 quote17 
+quote15 jan quote15 
+shift 
+caching 
+chain 
+solution 
+quote19 quote19 alter table 
+quote19 quote22 this 
+quote22 for 
+quote13 quote13 quote13 quote13 quote13 quote13 quote13 
+quote4 boolean 
+the title 
+quote19 quote19 fill 7 of value quote4 byte quote5 quote15 
+just return 
+the properties 
+see java quote14 lang quote14 
+quote0 to 
+int quote7 int quote7 int 
+update quote4 
+we don quote6 t want to 
+implied 
+views 
+scripts 
+past 
+reader 
+quote15 read 
+values quote14 
+only the 
+the only 
+todo quote9 this should 
+quote19 quote19 so we 
+scopes 
+check whether 
+todo quote9 implement 
+quote19 quote19 also 
+timer 
+parts 
+snapshot 
+similar 
+quote22 quote22 if 
+make a 
+quote5 quote5 quote5 
+tell the 
+is expected 
+quote22 then 
+the fig 
+quote19 quote19 double 
+quote6 quote5 
+need to check 
+the panel 
+quote19 quote19 work 
+foreign 
+bufferedimage 
+produce 
+returning 
+although 
+ensures 
+bother 
+far 
+choose 
+listed 
+keep track 
+purposes 
+how many 
+escaped 
+quote29 selectionchanged quote4 org quote14 columba quote14 
+package quote15 private members 
+quote7 cacheentry quote7 threadcontext quote7 irubyobject quote7 irubyobject 
+quote15 click 
+quote19 quote19 fill 8 of value quote4 byte quote5 
+going to 
+quote22 if the 
+quote19 quote19 called 
+return true 
+kind of 
+being used 
+or a 
+absolute path 
+space is 
+null quote16 quote12 
+quote19 quote19 calculate the 
+quote4 questionmark 
+is the same 
+an instance 
+pre quote15 
+example quote9 
+be in 
+quote0 true 
+listener to 
+see if we 
+quote14 get 
+quote19 stop 
+quote22 quote8 see java quote14 lang quote14 
+mri behavior 
+enclosed in 
+charset questionmark 
+log quote14 log quote4 
+todo quote9 i18n 
+the rest of 
+quote22 quote11 p quote12 quote22 todo quote9 
+usage 
+test plan 
+the type of the 
+200 
+element should be 
+quote17 quote17 quote17 quote17 quote17 quote17 
+quote10 quote3 quote22 
+seem to 
+treated as a 
+class of the 
+null quote16 
+changed quote14 
+args quote7 
+the buffer 
+quote15 we 
+quote6 quote22 
+quote7 there 
+hql 
+browser 
+quote7 rubyclass quote7 
+quote19 quote19 if we are 
+datetime 
+quote6 t happen 
+an entity 
+it would be 
+class loader 
+the flag 
+it to the 
+using a 
+as part of 
+quote19 quote19 work out 
+quote7 null 
+quote16 null quote10 
+a reference to the 
+the stereotype 
+mdr 
+cloned 
+goes 
+share 
+sync 
+reflection 
+is treated as 
+quote19 quote19 quote0 alter 
+method quote7 
+quote19 quote19 define 
+user to 
+quote0 as 
+quote19 quote19 for each 
+parameter to 
+quote17 path 
+quote17 1 
+on windows 
+fixme quote9 this 
+and its 
+specified in the 
+to use for 
+quote19 plain 
+quote19 quote19 delegate 
+image quote16 
+paste 
+uml1 
+colors 
+iso quote15 8859 quote15 1 
+hashmap 
+white 
+onto 
+use null 
+and not 
+of these 
+u 
+use it 
+quote14 application 
+version quote14 
+error message 
+2005 
+png 
+foo quote14 
+quote19 quote19 todo quote9 this is 
+where quote22 
+interest 
+inherited 
+together 
+possibly 
+accessible 
+successfully 
+iteration 
+hand 
+quote27 tablename quote27 
+exe 
+success 
+knows 
+that there 
+use this 
+quote19 quote19 we want 
+quote22 the new 
+cleartool 
+quote22 quote22 return 
+quote19 quote19 helper 
+content type 
+doesn quote6 t support 
+quote15 many 
+support for 
+quote14 log quote4 
+depends on 
+fold 
+caret 
+add to 
+quote19 quote22 4 
+this makes 
+whether the 
+check if we 
+this is expected 
+quote19 quote19 call 
+it as a 
+get here 
+cell and 
+set quote14 
+text quote19 
+quote0 true quote0 
+for whether 
+should only 
+settings quote14 
+post request 
+is empty 
+generate the 
+exception quote14 
+used quote14 
+quote19 quote19 by 
+quote27 quote27 non quote15 nls quote15 
+concrete 
+along 
+app 
+todo quote9 do we 
+the query 
+quote10 quote19 quote19 quote15 quote19 quote19 
+gnu 
+final int 
+quote19 quote19 todo quote9 do 
+may be null 
+we might 
+quote19 quote19 these are 
+quote10 quote19 quote19 quote15 
+quote19 quote19 if there are 
+quote7 true 
+has already 
+quote4 org quote14 columba quote14 core quote14 gui quote14 
+addressbook 
+cookie 
+quote19 from 
+the listener 
+file to 
+iterate over 
+quote13 quote13 quote13 quote13 quote13 quote13 quote13 quote13 
+21 
+org quote14 columba quote14 api quote14 command quote14 
+quote22 4 quote14 
+quote7 for 
+quote19 quote19 compute 
+behavior quote14 
+item quote14 
+quote4 boolean quote5 quote22 
+ids 
+extended 
+greater 
+mappings 
+tip 
+disk 
+quote14 createemptyborder quote4 
+quote19 quote19 fill 5 of value quote4 byte quote5 
+1 quote14 1 
+quote7 we can 
+delete the 
+quote19 quote19 if a 
+quote4 quote22 org quote14 
+quote19 data 
+quote19 protected 
+quote5 quote16 
+quote9 if 
+we have the 
+quote14 info 
+exponent 
+inheritance 
+26 
+quote19 quote19 e quote14 g quote14 
+as utf quote15 8 
+worker 
+member 
+expressions 
+not already 
+the case of 
+a property 
+method quote14 
+used as 
+quote19 quote19 send 
+the complete 
+that can 
+quote9 use 
+limit the 
+quote14 font 
+all of the 
+whether to 
+quote14 quote19 quote19 quote19 quote19 
+headerlist 
+headerfields 
+targetset quote4 
+targetremoved 
+targetlistener quote29 targetadded quote4 
+reload 
+looks 
+npe 
+finish 
+printstacktrace 
+ourselves 
+starts with 
+thrown 
+follows 
+commands here because 
+viewpath 
+final string 
+last thing in field 
+two separate 
+delegate the call 
+org quote14 tigris quote14 gef quote14 base quote14 
+an empty dataset 
+pr 
+completely 
+quote7 cacheentry quote7 threadcontext quote7 irubyobject quote7 irubyobject quote7 string 
+quote22 quote8 see org quote14 argouml quote14 persistence quote14 
+quote4 quote17 
+is ok 
+quote19 quote19 fall through 
+quote4 this quote5 
+quote14 quote19 quote19 quote19 
+jscrollpane 
+over the 
+quote23 ee quote23 ee quote23 
+relative to 
+icon quote7 
+need to re quote15 
+quote19 quote19 this should 
+quote19 finally 
+quote0 and 
+if needed 
+quote15 data 
+object and 
+quote9 i 
+methods quote14 
+data quote14 
+getfacade quote4 quote5 
+valid elements for a 
+quote4 borderfactory 
+quote16 quote26 
+completion 
+quote19 quote19 null 
+quote4 boolean quote5 
+owner quote7 
+look up the 
+returned by 
+quote19 quote19 stop 
+quote4 string quote5 
+and a 
+quote19 c 
+this can 
+quote7 2 
+keep track of 
+quote19 quote19 special case 
+work out the 
+which we 
+skip the 
+we assume 
+quote19 quote19 of 
+quote2 quote19 quote19 
+that they 
+17 
+calculation 
+transfer 
+know the 
+quote14 quote22 todo quote9 this 
+delegate the 
+object tree 
+quote19 quote19 data 
+metamodel 
+heap 
+quote19 quote19 one 
+the following is 
+quote4 org quote14 eclipse quote14 
+null if 
+name quote18 
+in uml2 
+is treated as a 
+the entire 
+quote21 quote7 
+be an 
+is just 
+because if 
+quote6 quote21 
+scroll 
+states 
+markers 
+relevant 
+quote17 icon quote7 
+quote19 quote19 we use 
+ast quote14 
+is inserted 
+xml file 
+size of the 
+double quotes 
+table quote27 
+margin 
+to do this 
+quote14 2 quote14 
+val 
+collection quote14 
+in uml 2 quote14 
+in the db 
+replace with 
+quote5 quote10 quote3 
+quote14 quote22 quote8 param 
+quote19 x 
+quote4 net quote14 sourceforge quote14 squirrel quote17 sql quote14 
+possible to 
+progressmonitor 
+setbackground quote4 
+environment 
+i quote6 m 
+does not exist 
+is enclosed 
+later quote14 
+use quote0 
+be found 
+put the 
+use for 
+type quote22 
+y quote16 
+an interface 
+this happens 
+quote19 quote19 quote8 
+should this 
+setlayout quote4 
+object quote19 quote19 
+quote16 quote26 quote0 
+with a space 
+again quote14 
+invisible 
+separated 
+history 
+positive 
+http quote9 quote19 quote19 www quote14 
+overrides 
+equality 
+quote7 object 
+is quote22 
+property name 
+ensure that the 
+is removed 
+or quote19 quote19 
+problem with 
+box for 
+separator quote16 
+do anything 
+quote19 quote19 now we 
+quote19 quote19 make sure we 
+editor quote14 
+instructions 
+quote14 get quote4 
+alter table quote27 
+analysis 
+gray 
+targetlistener quote29 targetset quote4 
+targetlistener quote29 targetremoved quote4 
+associate 
+icon for menu 
+guess 
+addition 
+difference 
+pop 
+meta quote15 data 
+due 
+not set 
+axis quote14 
+the local 
+bar quote14 
+quote7 org quote14 columba quote14 
+set up a 
+class as 
+method quote4 dg quote5 quote10 quote22 
+value for 
+cp 
+reference quote7 
+quote19 quote19 view 
+quote22 quote22 quote22 todo quote9 
+dbo 
+the special 
+a classifier 
+include the 
+insets quote4 
+printstacktrace quote4 
+quote14 exe 
+change this 
+not quote19 quote19 
+index of 
+signed 
+copies 
+because it 
+got a 
+string is 
+it has 
+text quote14 
+quote13 quote13 quote13 quote13 quote13 quote13 quote13 quote13 quote13 
+quote0 0 
+a list of 
+until we 
+quote4 borderfactory quote14 
+the field 
+to be used 
+quote7 quote22 org quote14 
+obj 
+statemachine 
+quote14 png 
+in the current 
+todo quote9 make 
+with the same 
+quote19 quote19 object 
+quote7 add 
+if we don quote6 t 
+and it is 
+quote19 quote19 include 
+at all 
+depending on 
+only be 
+quote19 quote19 it is 
+allow for 
+quote14 html 
+height of 
+passed to 
+top level 
+until the 
+quote0 quote7 quote26 
+imageloader 
+several 
+am 
+quote9 not 
+is also 
+convert the 
+quote19 quote19 has 
+that quote6 s 
+class to 
+to ensure that 
+quote5 quote10 quote19 quote19 quote3 
+quote7 i quote14 e quote14 
+to another 
+quote17 quote17 quote17 quote17 quote17 quote17 quote17 
+for us 
+if we can 
+quote19 quote19 map 
+so the 
+quote7 quote22 java quote14 lang quote14 object 
+quote19 quote19 quote16 
+time quote14 
+create new 
+quote7 to 
+direction 
+renderers 
+strict 
+built 
+create an empty 
+a little 
+quote19 quote19 mri behavior 
+quote19 quote19 log quote14 log quote4 
+quote19 1 
+know that 
+look for a 
+flag and 
+if there are no 
+for handling 
+a local 
+quote14 5 quote14 3 quote14 
+quote15 tfm quote15 
+quote22 the following 
+uimanager quote14 put quote4 
+is a valid 
+in an 
+ignore the 
+return an 
+quote26 quote0 quote7 quote26 quote0 
+the rest of the 
+quote19 quote19 row 
+0000 
+imapfolder 
+assigned 
+uml1 quote14 
+identifiers 
+httpclient 
+faster 
+significant 
+if there is one quote14 
+mirror server 
+then it 
+the future 
+top of 
+quote9 quote16 
+done in 
+quote4 org quote14 tigris quote14 
+the error 
+org quote14 columba quote14 ristretto quote14 message quote14 
+getrowcount quote4 quote5 
+hard 
+borderfactory quote14 createemptyborder quote4 
+construction 
+setproperty 
+ahead 
+never happen 
+become 
+executable 
+few 
+an initialized 
+quote7 karlpeder quote22 
+use the same 
+quote19 quote19 todo quote9 implement 
+5 quote5 
+quote18 1 
+quote19 quote19 if no 
+object in 
+the size 
+it into 
+copy the 
+list is 
+if necessary quote14 
+lesser general public 
+free software 
+the gnu 
+quote22 quote22 quote8 see java quote14 util quote14 
+quote19 quote19 prepare 
+use default 
+the mirror 
+quote14 quote22 quote11 p quote12 quote22 todo quote9 
+non quote15 null result 
+due to 
+its own 
+quote19 quote19 build the command 
+quote14 debug 
+quote19 quote19 finally 
+error in 
+the stream 
+quote22 quote22 quote8 see java quote14 lang quote14 
+eol 
+quote14 png quote0 quote5 quote5 quote10 
+quote4 not 
+other than 
+for use 
+space and 
+a windows 
+containing the 
+1 quote21 
+quote7 string quote7 
+files quote7 
+quote19 quote19 subclasses 
+a uml 
+quote5 quote5 quote5 quote10 
+pre quote12 
+first line 
+failed to 
+be made 
+setborder quote4 borderfactory quote14 
+was a problem 
+subclasses may 
+text field 
+the graph 
+new instance 
+will get 
+the database 
+quote7 do 
+quote6 quote19 quote19 
+optimization 
+src 
+clipboard 
+let the 
+quote9 remove 
+it quote14 quote19 quote19 
+column is 
+quote7 args 
+options quote14 
+in double 
+the form 
+a temporary 
+quote11 quote11 
+do not change 
+the fignode 
+quote15 to quote15 many 
+the format 
+w quote16 
+string representation 
+quote19 quote19 check arguments 
+write to 
+is currently 
+quote6 quote2 
+operation quote14 
+laf quote14 
+quote19 quote19 work out the 
+quote15 2002 quote9 added 
+quote10 it 
+int quote7 int quote7 
+questionmark quote22 quote22 quote8 
+quote27 non quote15 nls quote15 3 quote27 
+quote14 settext 
+quote19 quote19 always 
+quote7 false 
+register the 
+post body 
+may override 
+to null 
+questionmark quote0 
+domain quote7 
+pad 
+quote14 getfacade quote4 quote5 quote14 
+factory quote14 
+not work 
+quote19 name 
+quote22 quote22 quote19 
+quote27 quote5 quote0 
+not happen 
+with quote19 
+quote5 quote6 
+name quote12 
+quote19 quote19 override 
+as a child 
+backward compatibility 
+quote19 quote19 from 
+typed 
+requests 
+received 
+content quote15 type 
+name quote5 
+parse quote4 
+to stop 
+text and 
+itself quote14 
+quote19 quote19 todo quote9 is 
+the parameter 
+is specified 
+top quote15 
+quote19 quote19 in the 
+quote19 quote19 are 
+label quote14 
+dispose 
+functionality 
+slash 
+quote3 quote6 
+class and 
+uimanager quote14 put quote4 quote0 
+quote0 quote7 mainfont quote5 quote10 
+quote13 quote13 quote13 quote13 quote13 quote13 quote13 quote13 quote13 quote13 
+value quote7 it 
+box quote14 
+quote19 quote19 re quote15 
+to hold 
+quote19 quote19 there is 
+because if a 
+year 
+connections 
+file1 
+umlplaintextdocument 
+drawn 
+guard 
+dump 
+gives 
+usable 
+yields 
+wasn quote6 t 
+semantics 
+couldn quote6 t 
+quote27 columnname 
+validation 
+twice 
+arbitrary 
+runs 
+lot 
+name quote18 quote0 
+so create 
+quote14 class quote5 quote10 quote19 quote19 
+quote19 quote19 bottom 
+constructor for 
+request quote7 
+be better 
+default values 
+stream from 
+to quote17 
+call quote14 quote22 
+quote29 quote0 
+access to 
+static final int 
+quote14 font quote0 
+quote14 quote5 
+set default 
+quote19 main 
+todo quote9 add 
+foreign key 
+mouse listener 
+top quote15 level 
+with quote19 quote19 
+it quote7 
+mvw quote9 
+quote14 setlayout quote4 
+user has 
+child quote14 
+oct 
+quote0 quote21 
+quote19 quote19 todo quote9 do we 
+this library 
+0 quote5 quote5 quote10 
+boolean quote7 
+this function 
+quote19 quote19 wait for 
+for some 
+class for 
+such as 
+thread quote14 
+a reasonable 
+was an 
+a package 
+this quote19 quote19 
+quote19 quote19 needed 
+quote15 i 
+are quote19 
+name quote9 
+quote5 quote3 
+quote19 quote19 avoid 
+to set the 
+quote4 org quote14 tigris quote14 gef quote14 
+channel 
+callback 
+encode 
+union 
+deleting 
+to write 
+is still 
+does the 
+up quote14 
+don quote6 t do 
+representation of 
+printstacktrace quote4 quote5 
+there was a problem 
+what we got 
+quote15 dependent 
+quote19 next 
+which does 
+feature quote14 
+quote19 append 
+implementation of 
+quote11 quote16 
+line quote14 
+the plugin 
+case we 
+isrelevant 
+transition 
+modelelements 
+direct 
+quote17 w quote16 
+quote14 settext quote4 
+convert to 
+path quote14 
+shouldn quote6 t be 
+have no 
+netbeans 
+move to 
+quote7 since we 
+case where 
+too quote14 
+y quote15 
+are already 
+backwards compatibility 
+quote0 alter table 
+quote19 quote19 protected 
+should probably 
+the transaction 
+questionmark quote15 tfm 
+decode 
+alpha 
+enum 
+dtd 
+a table 
+in all 
+result in 
+the menu 
+the server 
+with this 
+a quote6 
+quote19 quote19 construct 
+files quote14 
+directory quote14 
+quote19 quote19 name 
+first non 
+the status 
+model quote14 getfacade quote4 quote5 quote14 
+permission 
+quote7 then the 
+quote2 return 
+the action 
+looking for 
+in fact 
+quote19 quote19 c 
+quote0 for 
+are quote19 quote19 
+the mirror server 
+is returned 
+information quote14 
+is not null 
+a change 
+dialects 
+indices 
+fonts 
+period 
+unwrap 
+filled 
+shows 
+setters 
+if there quote6 s 
+quote19 quote19 move 
+file io 
+quote19 quote19 where 
+quote14 action 
+they are not 
+quote19 quote19 store the 
+event to 
+new file 
+if there is an 
+as specified in the 
+base quote14 
+quote19 quote19 tell 
+quote7 we quote6 
+does this 
+quote16 quote2 0 
+an association 
+it should 
+deferred 
+getroot 
+addcommand 
+getcolumnname quote4 
+stillvalid 
+ordered 
+setfont quote4 
+reject 
+ensures that 
+shall 
+invocation 
+originally 
+synchronized 
+everything else 
+grab 
+derived 
+double quote15 click 
+maintain 
+valid elements for an 
+ugly 
+quick 
+normally 
+eventually 
+a lot 
+quote14 hint quote16 display 
+quote22 quote8 return an initialized 
+quote19 quote19 build the command line from what we got 
+quote19 quote19 quote0 alter table quote27 
+file quote19 
+java quote14 lang quote14 object quote7 int 
+there was an 
+the arguments 
+model elements 
+to define 
+check quote14 
+has to 
+collection of 
+this node 
+com quote19 
+quote22 quote22 quote22 create 
+small icon for 
+to re quote15 read 
+series quote7 
+xmlelement 
+x quote18 
+quote27 quote5 
+quote19 quote19 next 
+out quote14 
+quote14 4 quote14 
+appear to 
+quote4 quote22 org quote14 argouml quote14 cognitive quote14 
+quote19 quote19 b 
+subclasses may override 
+quote4 borderfactory quote14 createemptyborder quote4 
+quote0 quote5 quote14 
+quote4 null 
+to resolve 
+2007 
+remove it 
+the start of 
+quote4 quote22 org quote14 argouml quote14 
+can use 
+equal quote14 
+opt 
+connected 
+uris 
+test code 
+we expect 
+false quote7 
+quote19 quote19 fixme quote9 this 
+quote19 quote19 append 
+quote7 it quote6 s 
+next quote4 
+quote19 quote19 fetch 
+quote19 quote19 loop 
+the best 
+by default quote7 
+quote15 style 
+the row 
+value quote7 it is 
+area quote14 
+here quote14 quote14 quote14 
+better way 
+do we need to 
+quote5 quote2 return 
+quote0 quote7 mainfont quote5 quote10 uimanager quote14 put quote4 quote0 
+dbms 
+mnemonic 
+marked 
+bin 
+return value 
+this quote7 
+fill in the 
+load all 
+we quote6 d 
+quote19 quote19 fill 6 of value quote4 byte quote5 quote15 
+file quote19 quote19 
+quote7 try to 
+not to 
+quote19 quote19 be 
+quote16 quote0 true quote0 
+there is no need 
+quote22 quote8 see org quote14 columba quote14 api quote14 
+it may 
+quote9 o quote15 quote15 quote15 quote15 quote15 
+but if 
+is for 
+so that we can 
+quote19 quote19 initialize the 
+quote19 quote19 x 
+quote17 value 
+quote15 charset 
+quote19 quote19 it quote6 s 
+implementation quote15 
+quote14 quote22 quote22 quote8 see 
+default to 
+for creating 
+base class 
+fall through to 
+data area 
+so we need 
+postgresql 
+pk 
+cellrenderer 
+mainpanel 
+padding 
+individual 
+quote19 match 
+type is 
+key is 
+the methods 
+quote22 quote22 the following 
+quote0 create 
+private final 
+to true 
+call the 
+quote15 2005 
+quote7 e 
+quote17 quote17 quote17 quote17 quote17 quote17 quote17 quote17 
+to enable 
+the underlying 
+quote15 i quote15 
+quote19 quote19 todo quote9 why 
+quote16 quote2 0 quote3 
+quote19 quote19 inner 
+quote9 quote6 
+quote5 quote14 quote22 
+sqlresultexecuterpanel 
+translator 
+storage 
+opened 
+showing 
+certain 
+viewname 
+cleanup 
+extensions 
+ranges 
+delimiter 
+trace 
+seems to be 
+no more 
+is probably 
+null quote5 quote10 
+are the same 
+is valid 
+the label 
+quote19 quote19 main 
+locale quote15 
+hold the 
+one quote14 quote14 quote14 
+the final 
+to close 
+quote9 is this 
+getroot quote4 
+quote19 quote19 used by 
+constraintname 
+synchronously 
+setfillcolor quote4 
+getminimumsize 
+getparsinghelp quote4 quote5 
+kernel 
+excluded 
+synchronization 
+graphics 
+testplan 
+somewhere 
+successful 
+streams 
+delegated 
+javax quote14 management quote14 notificationlistener 
+hashcode quote4 
+ready 
+rid of 
+rebuild 
+usually 
+optimize 
+care about 
+speed 
+rely 
+tasks 
+so that the 
+instance quote14 quote22 
+quote14 however 
+quote14 add quote4 quote0 
+test that 
+clone quote4 quote5 quote22 
+quote14 for 
+java quote14 lang quote14 string quote7 java quote14 lang quote14 
+quote14 5 quote14 2 
+the one 
+can not 
+add it to 
+255 
+java quote14 awt quote14 datatransfer quote14 
+todoitem quote7 
+sure that we 
+the classpath 
+quote22 public 
+quote19 quote19 if there is no 
+i quote15 
+the entry 
+quote19 index 
+the instance 
+quote22 quote22 create an 
+quote19 quote19 push 
+listening to 
+questionmark quote15 
+sep quote15 
+quote15 2004 quote9 
+and make 
+so we need to 
+setproperty quote4 
+input stream 
+small icon for menu 
+quote19 quote19 assertequals quote4 
+found in 
+quote19 quote19 fill 4 of value quote4 byte quote5 quote15 
+li quote12 
+window quote14 
+quote19 quote19 with 
+that quote6 
+this as 
+makes the 
+quote4 quote6 
+try to use the 
+quote8 link quote29 
+has already been 
+the model quote19 
+user quote14 
+if any quote5 
+setborder quote4 borderfactory quote14 createemptyborder quote4 
+it as a child 
+quote6 t get 
+values from 
+quote19 quote19 both 
+quote19 1 quote14 
+quote19 quote19 if it quote6 s 
+quote14 i 
+quote7 make 
+quote15 jun quote15 
+quote19 quote19 needs 
+not really 
+parameter quote14 
+output file 
+than a 
+quote19 quote19 static 
+quote19 4 
+propertychangelistener quote7 
+output stream 
+quote6 quote23 
+the problem 
+quote19 quote19 give 
+quote19 quote19 let quote6 s 
+quote19 quote19 invoke 
+the sample 
+have this 
+quote22 first 
+about to 
+quote22 quote22 quote11 
+quote19 non 
+rubyclass quote21 
+for this class 
+quote19 quote19 match 
+the internal 
+don quote6 t use 
+this check 
+should return 
+not allowed 
+some of 
+quote19 while 
+aload 
+flow 
+serialization 
+the mouse 
+quote11 b 
+quote22 when 
+around the 
+the proxy 
+items are 
+here quote14 quote14 
+timeline 
+stream to 
+the child 
+been set 
+to clone 
+be non 
+quote19 quote19 check if we 
+quote14 command quote14 
+10 quote7 
+quote7 10 
+be moved 
+i18n quote14 
+throw new 
+for toolbar 
+quote6 t draw 
+quote2 quote19 quote19 return 
+return quote4 
+quote4 2 
+behavior quote9 
+any other 
+path to 
+values quote19 quote19 
+orientation 
+figedge 
+models 
+socket 
+crc 
+stores 
+quote15 quote15 quote15 quote15 quote15 o 
+todo quote9 is this 
+of quote22 
+this could 
+empty quote14 
+quote19 quote19 private final 
+the two 
+org quote14 argouml quote14 cognitive quote14 todoitem quote7 
+methods quote15 
+type parameters 
+table quote7 
+quote7 c 
+lhs 
+headerfield 
+unsaved 
+dimensions 
+kept 
+hidden 
+bail 
+reasons 
+supposed to 
+quote19 quote19 rows 
+quote12 quote12 
+in that 
+quote19 quote19 1 
+them quote19 quote19 
+data type quote14 
+quote22 fixme quote9 
+result set 
+quote19 rfc 
+quote19 quote19 by default 
+this may 
+quote22 but 
+result quote10 
+feature to 
+a new instance 
+quote19 quote19 final 
+sqlbookmark 
+sqlresultexecuterpanel quote14 
+unable to 
+getcolumncount quote4 quote5 
+iscelleditable quote4 
+setlinewidth quote4 
+datatypes 
+comparing to another 
+caused 
+quoted 
+formatting 
+wrapped 
+improve 
+dates 
+moment 
+javahelp 
+proper feature 
+fit 
+takes 
+iterate through 
+behind 
+matched 
+programming 
+logged 
+boolean quote23 
+unfortunately 
+mac 
+decide 
+should never happen 
+we quote6 ve got 
+quote19 quote19 i18n quote20 datasetupdateabletablemodelimpl quote14 
+quote15 oct quote15 
+that if 
+fall back to 
+quote4 javax quote14 management quote14 
+quote19 quote19 display 
+we also 
+default quote14 
+quote19 pre 
+quote19 quote19 needs to 
+quote19 quote19 have 
+g2 
+quote15 2005 quote9 
+the value quote7 
+to quote0 
+anyway quote14 
+close quote4 quote5 
+quote16 y 
+will always 
+copy of the 
+quote11 quote19 code quote12 for 
+are in 
+quote20 i18n 
+quote2 quote8 link quote29 
+should not happen 
+quote4 tudresden quote14 ocl quote14 
+quote19 quote19 as specified in the 
+quote14 font quote0 quote7 mainfont quote5 quote10 
+imageloader quote14 
+getminimumsize quote4 quote5 
+hashcode quote4 quote5 
+helper method 
+empty implementation 
+rely on 
+quote29 clone quote4 quote5 quote22 
+quote9 fixed 
+quote4 javax quote14 management quote14 notificationlistener 
+quote14 center 
+quote19 quote19 re 
+of the file 
+the map 
+exists quote7 
+just in case 
+is found 
+color quote14 
+quote19 bar 
+quote22 quote0 
+convenience quote7 
+the beginning 
+the first non 
+quote4 if any quote5 
+rather than a 
+equals quote4 quote5 
+a copy of 
+a comment 
+object to 
+and the value 
+package quote14 
+if so 
+associated with 
+over all 
+helper methods 
+our own 
+start of the 
+quote19 quote19 todo quote9 make 
+a quote22 
+map of 
+we set 
+goto 
+cc quote14 
+quote17 name quote12 
+changing the 
+through all 
+target is 
+quote19 quote19 we don quote6 t want 
+quote16 true quote10 
+quote5 or 
+quote11 trim 
+columns quote19 
+setenabled quote4 false quote5 quote10 
+cmd 
+quote26 t 
+set quote7 
+dimension quote4 
+listen for 
+guaranteed to be 
+quote15 use 
+final static 
+quote19 quote19 constructors 
+less than 
+only used 
+to update the 
+the size of 
+quote6 s no 
+true quote10 
+no quote15 
+a command 
+quote7 we quote6 ll 
+quote0 quote26 
+format is 
+quote19 quote19 may be 
+quote7 1 quote5 
+todo quote9 not 
+names quote14 
+default encoding 
+eq 
+representing 
+quote17 icon quote7 imageloader 
+weblogic 
+quote14 center quote5 quote10 
+this quote0 
+which will 
+string representation of 
+source folder 
+data types 
+quote19 quote22 note 
+nothing quote7 
+quote21 quote19 quote19 quote20 
+not specified 
+so quote19 quote19 
+the feature 
+questionmark quote22 quote22 
+cache the 
+be non quote15 null 
+quote16 quote0 quote18 
+quote14 quote19 quote19 if 
+events quote14 
+the objects 
+quote19 http 
+quote17 y quote16 
+next line 
+and fill 
+contains a 
+quote15 y 
+will quote19 
+field quote7 
+byte quote19 quote19 
+the model quote14 
+bytecode 
+regexp 
+synch 
+unsigned 
+web 
+proceed 
+restart 
+issues 
+public static 
+body quote14 
+otherwise quote7 use 
+first non quote15 
+be quote22 
+yet quote14 
+this questionmark 
+sub quote17 
+quote5 method quote4 dg quote5 quote10 quote22 
+quote14 quote15 
+wants to 
+right now 
+quote19 quote19 fill 8 of value quote4 byte quote5 quote15 
+quote19 quote19 throw new 
+call to 
+index quote17 
+is now 
+it might 
+quote0 or 
+the time 
+quote20 1 
+this needs to 
+org quote19 
+quote7 in 
+dispatch 
+owned 
+incoming 
+uninitialized 
+pixels 
+createtestelement quote4 quote5 
+low 
+plus 
+addresses 
+merged 
+separators 
+re quote17 
+demand 
+when it 
+like a 
+quote22 java quote14 lang quote14 object quote7 java quote14 
+quote14 check 
+quote19 quote19 boolean 
+there quote6 s no 
+quote4 0 quote7 0 quote7 0 
+clean up 
+no point 
+a given 
+instead quote14 
+to create a 
+quote19 quote19 look for a 
+quote15 value 
+quote22 that 
+quote19 removed 
+fact that 
+before any 
+make sure that we 
+quote15 sep quote15 
+setlayout quote4 new 
+registry 
+aware 
+asserttrue quote4 
+quote4 c 
+quote14 size quote4 
+text is 
+that we have 
+quote19 o 
+todo quote9 use 
+queries 
+increase 
+compound 
+getvalueat quote4 
+light 
+setfilled quote4 
+mouse events 
+uml1 quote14 4 
+factor 
+mousepressed 
+cancelled 
+jmx file 
+recursive 
+buffers 
+dynamically 
+illegalargumentexception 
+quote23 boolean quote23 true if 
+generally 
+commandline 
+rfc 2396 
+modification quote15 
+implicit 
+branch 
+see org quote14 eclipse quote14 emf quote14 codegen quote14 
+raise 
+slightly 
+quote9 comparing to another 
+quote4 tudresden quote14 ocl quote14 parser quote14 node quote14 
+quote22 quote8 see org quote14 argouml quote14 application quote14 
+for status 
+name in 
+constructor quote14 
+is different 
+quote4 org quote14 tigris quote14 gef quote14 presentation quote14 
+quote9 00 
+quote7 cc quote14 
+necessary to 
+quote4 select 
+quote22 package 
+value quote19 
+quote7 it quote6 
+quote15 should 
+quote7 create a 
+quote19 quote19 this method 
+classes and 
+t quote19 
+if there was no 
+quote14 getname 
+quote7 quote22 then 
+quote14 quote19 quote19 otherwise 
+mapping quote14 
+run quote4 
+quote19 quote19 needs to be 
+domain axis 
+guardedby quote4 quote0 this quote0 
+their own 
+need to re quote15 read 
+quote15 ref 
+quote19 quote19 this happens 
+line is 
+quote19 quote19 more 
+columns quote19 quote19 
+locals 
+vfs 
+sum 
+java quote14 util quote14 collection 
+contents of the 
+to convert 
+be non quote15 
+next quote4 quote5 
+do nothing quote7 
+the most 
+values quote7 
+quote19 quote19 while 
+id quote16 
+the first non quote15 
+the state 
+the db quote14 
+the results 
+size quote4 quote5 
+quote22 now the 
+will quote19 quote19 
+quote19 quote19 non 
+use of 
+irubyobject quote7 rubyclass 
+filter configuration 
+a few 
+quote22 quote8 return an initialized uml 
+quote0 this 
+type quote19 
+quote0 quote29 
+object and return 
+not available 
+quote19 quote19 check to see if 
+axis quote14 quote14 quote14 
+to search 
+quote16 x 
+the post 
+pre quote12 quote22 
+cannot use 
+there is no need to 
+need to do 
+we find 
+we found 
+interrupt 
+map to 
+of the specified 
+quote22 quote6 
+the gnu lesser general public 
+quote17 type 
+quote22 try 
+quote19 quote19 how 
+class for handling 
+we didn quote6 t 
+quote14 setbackground quote4 
+quote19 quote19 todo quote15 charset questionmark 
+if there was a 
+is shown 
+is too 
+8 quote7 
+then quote19 
+quote19 quote19 top 
+quote19 quote19 if we quote6 
+quote6 t quote19 quote19 
+quote7 and the 
+quote12 quote4 
+if it doesn quote6 t 
+quote6 and 
+quote17 0 
+is defined 
+when a 
+a quote11 
+called before 
+some other 
+this datatype 
+change listener 
+until one 
+the first non quote15 null 
+aload quote17 
+hhh 
+eclass 
+mixed 
+stack size 
+quote19 foo 
+quote3 quote0 
+quote4 0 quote5 
+patch 
+now the 
+change this to 
+not quote7 
+if we quote6 ve 
+the parser 
+the archive 
+value quote19 quote19 
+quote14 size 
+quote10 if 
+quote0 quote10 quote19 quote19 
+it in 
+quote7 but this 
+not need 
+quote15 do 
+since this 
+quote5 quote18 
+quote19 3 
+representation of the 
+quote23 quote6 
+to use a 
+quote19 quote19 continue 
+string to 
+listen to 
+focus quote14 
+end up 
+quote4 0 quote7 0 quote7 0 quote7 
+quote5 quote5 quote10 quote22 quote19 
+hierarchical 
+assumed 
+opposite 
+holds 
+sometimes 
+32 
+tools 
+to start 
+display the 
+is it 
+quote19 java 
+of its 
+table name 
+quote19 quote19 otherwise quote7 use 
+quote16 quote0 mongosourceelement quote14 
+quote19 quote19 private javax quote14 swing quote14 
+is necessary 
+one or 
+the search 
+quote19 quote19 c quote14 
+quote19 quote19 any 
+shown as 
+sun quote14 
+be ignored 
+expanders 
+operand 
+addactionlistener quote4 
+the output file 
+that will be 
+load quote4 
+quote22 internal 
+through to 
+any quote5 
+the height 
+quote19 quote19 tests 
+quote19 quote19 does not 
+quote19 quote19 label 
+match quote14 
+does quote19 quote19 
+quote4 java quote14 lang quote14 string quote7 
+reads 
+gettext 
+jtable 
+max quote17 
+many quote15 to quote15 many 
+gc 
+repository 
+security 
+identical 
+org quote14 argouml quote14 uml quote14 reveng 
+dataset quote7 
+object and return the 
+object quote20 
+quote22 returns 
+get the data 
+same name 
+quote15 tfm quote22 
+mar 
+while loop 
+junit quote15 
+quote19 quote19 check to see 
+quote4 quote8 
+quote19 quote19 select the 
+the editing 
+quote19 quote19 key 
+quote14 java quote14 
+quote9 do we need 
+then just 
+quote14 however quote7 
+quote19 quote22 note quote9 
+case the 
+a stereotype 
+object quote29 
+items to 
+super quote4 
+in case of 
+bottom quote14 
+you should 
+we could check 
+quote14 getname quote4 
+the compiler 
+that a 
+quote19 quote19 we only 
+quote14 size quote4 quote5 
+copytablelistener 
+sequencename 
+expanded 
+mousereleased 
+please enter 
+mouseclicked quote4 
+projectbrowser 
+truncate 
+mainpanel quote14 
+everyone 
+slow 
+urlencoded 
+applies 
+beanshell modification quote15 
+four 
+assuming 
+annotation 
+hook 
+refers 
+locate 
+tool tip 
+early exit 
+reported 
+removal 
+particular 
+determined 
+40 
+systems 
+locale quote15 dependent 
+exclude 
+resulting 
+invoked 
+completed 
+places 
+cleaner 
+careful 
+head 
+someone 
+just send 
+it yields 
+quote14 notationprovider quote29 parse quote4 
+quote15 quote15 quote15 quote15 quote15 o quote19 quote19 
+quote19 quote19 i18n quote20 helpviewerwindow quote14 
+quote19 quote19 fill 9 of value quote4 byte quote5 
+the attribute 
+and return the 
+the names 
+getcontrolpanels 
+abs 
+ask the 
+when they 
+file content 
+the format is 
+create it 
+4 quote5 
+is true 
+quote19 quote19 go 
+have the same 
+if they are 
+quote19 quote19 we do 
+table of 
+then quote19 quote19 
+be returned 
+quote6 t change 
+quote19 quote19 rb quote17 
+no data 
+ok quote4 
+read quote14 
+quote7 check 
+mousepressed quote4 
+pick up 
+quote22 quote22 quote8 see org quote14 argouml quote14 application quote14 
+quote7 if there 
+quote5 quote4 dg quote5 quote10 quote22 
+quote22 quote8 see java quote14 lang quote14 object quote29 
+quote19 quote19 index 
+be null if 
+quote14 org 
+registercolumntype 
+y quote18 
+under the 
+mode quote7 
+quote6 t yet 
+quote4 quote5 quote10 quote22 
+finally quote7 
+jar file 
+the copy 
+we really 
+well as 
+objects quote14 
+quote7 so create 
+values are 
+instances of the 
+done with the 
+the bounds 
+table quote21 
+quote19 block 
+toolbar text 
+guardedby quote4 quote0 this quote0 quote5 
+datatype object 
+text to 
+org quote14 columba quote14 api quote14 gui quote14 frame quote14 
+name quote18 quote0 quote29 quote0 
+quote15 2001 
+quote14 font quote0 quote7 
+quote15 2001 quote9 
+as well as 
+done by 
+quote19 quote19 accessors 
+found quote7 
+the quote6 
+and is 
+the files 
+should always 
+in the case 
+quote19 quote19 quote19 quote19 instance 
+to be added 
+0 quote15 
+quote19 quote19 http 
+quote22 java quote14 awt quote14 
+14 
+ctrl 
+quote7 since it 
+database quote15 
+belongs to 
+results in 
+is there 
+class quote22 
+replace the 
+refresh quote4 
+eval quote4 
+default implementation 
+text component 
+quote17 quote17 quote17 quote17 quote17 quote17 quote17 quote17 quote17 
+being used for 
+private boolean 
+quote14 quote22 quote22 quote8 return an initialized uml 
+quote19 cache 
+quote18 quote4 
+quote14 com quote19 
+quote7 b 
+model quote14 quote22 
+the datatype 
+passed in 
+quote19 catch 
+notify listeners 
+a problem with 
+of which 
+quote19 p 
+is at 
+search for 
+processing of 
+range axis 
+allocator 
+hhh quote15 
+spam 
+backslash 
+synchronize 
+sax 
+env 
+gridbagconstraints 
+property quote15 
+a child quote14 
+a b quote5 
+quote15 id 
+of the table 
+the columns 
+ok to 
+quote21 quote19 quote19 as 
+that all 
+or quote0 
+selection quote14 
+uri quote7 
+quote4 org quote14 eclipse quote14 emf quote14 
+the window 
+is quote0 
+quote19 quote22 quote22 quote22 quote22 
+quote23 quote23 quote23 quote23 
+string representation of the 
+you must 
+quote19 quote19 mri behavior quote9 
+quote19 quote19 either 
+this be 
+by the user 
+allcontents 
+dim 
+space for 
+generate a 
+quote17 2 
+only show 
+in quote22 
+will have 
+quote19 constants 
+quote4 quote5 and 
+quote19 quote19 quote0 create 
+server quote7 
+22 
+decision 
+query string 
+live 
+exec 
+argument checks 
+we try 
+data is 
+quote19 quote19 currently 
+aug 
+todo quote9 remove 
+it quote22 
+quote14 name 
+column quote14 
+quote19 quote19 i quote14 e quote14 
+position of 
+quote16 x quote10 
+be updated 
+need to clone 
+quote19 quote19 private static final int 
+quote27 quote4 
+changes to 
+this test 
+back quote15 
+the super 
+quote22 quote22 quote8 see java quote14 lang quote14 object quote29 
+quote19 quote19 begin 
+anyway quote7 
+message to folder 
+ignore it 
+the clone 
+to just 
+can quote19 quote19 
+1 quote14 9 
+do you 
+don quote6 t yet 
+object quote20 quote21 
+to load the 
+quote19 quote19 tabs 
+quote4 the 
+quote19 quote19 this quote14 
+regression 
+focusowner 
+ending 
+counts 
+getters 
+keywords 
+break quote10 
+slashes 
+thread group 
+quote19 quote19 if this is 
+dialog quote14 quote19 quote19 
+name quote21 
+testelement quote5 
+equivalent to 
+relative path 
+be deleted 
+quote9 it 
+todo quote9 the 
+3 quote5 
+an quote19 quote19 
+quote20 0 
+class quote14 quote22 
+case quote15 
+won quote6 t be 
+allowed and 
+according to the 
+to be able to 
+quote19 quote19 should be 
+add this 
+that is being 
+test that the 
+quote7 boolean quote7 
+the fields 
+and use 
+quote7 even if 
+where we 
+quote19 quote19 write the 
+quote7 don quote6 t 
+quote19 quote19 in case 
+represent a 
+the caller 
+quote19 quote19 4 
+xy 
+05 
+prop 
+borderlayout quote14 center quote5 quote10 
+dateformat 
+logical 
+resolver 
+data from 
+for uml 
+this makes the 
+indexname 
+timeperiod 
+clauses 
+alter table quote27 tablename quote27 
+eobject 
+isenabled 
+clicked 
+aggregation 
+buffered 
+average 
+manage 
+opening 
+simulate 
+passing 
+consistent 
+differently 
+validating 
+placed 
+2nd 
+30 
+translate 
+key events 
+whatever 
+swallow 
+instantiated 
+affected 
+comparison 
+retain 
+smaller 
+copying 
+small quote17 icon 
+mapped 
+more efficient 
+defines 
+org quote14 tigris quote14 gef quote14 graph quote14 graphmodel 
+org quote14 argouml quote14 uml quote14 reveng quote14 
+quote19 quote19 and continue as if 
+quote19 quote19 create filter configuration 
+quote4 1 quote5 
+row quote14 
+quote7 1 quote5 quote5 quote10 
+the implementation 
+quote14 do 
+we create 
+only quote19 quote19 
+in db 
+quote19 quote19 block 
+result quote14 quote22 
+quote19 quote19 rfc 
+cell is 
+off the 
+quote19 quote19 http quote9 quote19 quote19 
+immutable quote7 
+clear quote4 quote5 
+quote0 this quote0 
+update quote4 quote5 
+quote19 quote19 drop 
+should really 
+exists quote14 
+quote12 quote21 
+quote5 quote2 quote19 quote19 return 
+refers to 
+lower bound 
+a reasonable default 
+quote14 createtestelement quote4 quote5 
+quote19 quote19 quote8 guardedby quote4 quote0 this quote0 
+quote19 quote19 just send 
+model quote7 
+that has 
+sort the 
+determine if 
+quote19 quote19 quote2 quote19 quote19 
+default quote9 
+quote19 quote19 message 
+we need this 
+to be able 
+the contents of 
+the start of the 
+registercolumntype quote4 types quote14 
+org quote14 columba quote14 calendar quote14 
+execute quote4 
+find out 
+try to get 
+subclass of 
+quote6 quote2 0 quote3 quote6 
+quote19 quote19 quote19 quote19 instance variables 
+at a 
+tzid 
+quote22 quote11 li quote12 
+used by the 
+quote19 quote19 cache 
+columns in 
+force the 
+1 quote10 
+quote13 quote5 
+called quote14 
+property is 
+the class name 
+quote5 quote14 this 
+quote19 quote19 todo quote9 this should 
+instance of a 
+us to 
+is used in 
+quote22 java quote14 lang quote14 string 
+depend on 
+ctor quote7 
+exit quote13 
+get rid of 
+new dimension quote4 
+we could check that the 
+quote7 but this makes 
+the text component 
+element is 
+d quote9 
+a better way 
+is handled 
+a quote11 code quote12 
+the association 
+quote5 quote7 quote19 quote19 
+quote17 session 
+dataset quote14 
+names of 
+sure that the 
+quote14 quote19 quote19 we 
+for user 
+we would 
+testlist 
+quote10 quote19 quote19 private javax quote14 swing quote14 
+quote19 html 
+quote19 quote19 should not 
+has not 
+value quote14 quote22 
+databaseobjecttype quote14 
+mappingroot 
+swt 
+week 
+coordinate 
+collaboration 
+parsed 
+pos 
+quote16 new jpanel quote4 
+quote14 setlayout quote4 new 
+quote19 quote19 registercolumntype 
+fetch the 
+delegate to 
+message quote0 
+quote19 quote19 scan 
+invoke the 
+new line 
+be equal 
+is done with 
+quote4 node 
+line quote7 
+not support 
+the renderer 
+the bar 
+quote19 quote19 todo quote9 move 
+a name 
+makes the code 
+enable quote19 disable 
+onto the 
+turn off 
+java quote14 beans quote14 propertychangelistener quote7 
+there was an error 
+if file1 
+the jtextarea quote7 
+quote22 jfreechart 
+if user 
+contains the 
+quote19 quote19 try to use 
+included in 
+for whether to 
+is being used 
+component quote19 quote19 
+but quote19 quote19 
+array quote14 
+quote19 quote19 note quote9 this 
+should this be 
+pass it 
+quote9 quote26 
+adding a 
+to run 
+a http 
+a namespace 
+quote19 quote19 make sure that 
+quote19 quote19 normal 
+columns quote19 quote19 rows 
+initial load 
+event handlers 
+does not work 
+quote19 quote19 private boolean 
+tudresden quote14 ocl quote14 check quote14 types quote14 
+00 quote9 
+quote14 quote19 quote19 otherwise quote7 
+for quote6 
+quote15 mar quote15 
+isession 
+compartment 
+cat 
+blocking 
+docs 
+quote14 epackagemapping quote4 quote5 
+quote19 quote24 
+quote19 quote19 questionmark questionmark questionmark 
+if all 
+to execute 
+the sampler 
+quote19 quote19 try to use the 
+result of 
+delegate quote14 
+methods quote22 
+we know that 
+quote7 5 quote7 
+that have 
+quote19 quote19 todo quote9 not 
+quote19 quote19 you 
+4 quote14 5 quote14 3 quote14 
+quote19 quote19 this datatype 
+quote19 quote19 constants 
+quote19 quote19 the text 
+quote7 quote22 java quote14 lang quote14 object quote7 
+fd 
+to the output 
+is just a 
+quote19 quote19 paint 
+safe to 
+top of the 
+quote19 quote19 adds 
+quote19 quote19 if there was 
+directory quote7 
+perform the 
+result returned 
+make this an 
+quote22 the following is 
+quote17 3 
+an array of 
+as if 
+as is 
+quote4 quote0 this quote0 
+separate quote19 quote19 
+return the first 
+deadlock 
+relationship 
+misc 
+extends 
+rethrow 
+taken 
+situation 
+most recent 
+changes quote14 
+might have 
+compute the 
+add constraint 
+in the db quote14 
+quote22 set up 
+quote19 quote19 check to 
+in that case 
+1 quote5 quote10 
+questionmark questionmark quote19 quote19 
+without a 
+adjust the 
+impossible quote14 
+for in quote15 cell 
+quote19 quote19 1 quote14 
+to generate 
+to provide 
+lib 
+in some 
+quote19 event 
+quote19 quote19 if we have 
+quote19 quote19 here we 
+there are any 
+quote6 t show 
+quote19 quote19 trim 
+that case 
+here is 
+table quote17 
+an item 
+quote19 quote19 parameter 
+node is 
+quote19 last 
+them to 
+angle 
+wfr 
+treenode 
+gettext quote4 
+tried 
+entered 
+menus 
+frames 
+belong 
+sqlexception 
+suppress 
+random 
+executing 
+isselected quote4 
+quote23 quote0 
+upon 
+recurse 
+was quote9 quote2 
+people 
+dont 
+quote14 localize quote4 
+special case quote9 
+workaround for 
+new color 
+be displayed 
+a custom 
+item is 
+quote7 you 
+for more 
+is used to 
+correctly quote14 
+quote19 quote19 class quote19 
+quote19 quote19 property 
+with values 
+quote7 set 
+1 quote22 
+quote19 quote19 if we quote6 re 
+0x00 
+g2 quote14 
+2008 
+styles 
+quote19 plugin 
+a block 
+quote19 quote19 inner class 
+sets the 
+no rows 
+2 quote3 
+the controls 
+found a 
+quote5 quote16 quote12 
+the component 
+foo quote14 bar 
+select quote5 
+namespace of 
+defined in 
+feature quote7 
+dbutil quote14 
+d3 
+d1 
+crosshair 
+catalogs 
+repaint 
+performed 
+setvalueat quote4 
+importer 
+modeleventpump 
+allocate 
+occured 
+potentially 
+combo box 
+stay 
+axis label 
+newly created 
+sender 
+earlier 
+wish 
+conditions 
+reflect 
+refer 
+spec says 
+installed 
+params 
+follow 
+replacing 
+finds 
+programming error 
+called from ctor 
+stick 
+table operations 
+illegal 
+declared 
+jdk1 quote14 
+idea 
+no need to clone 
+we could check that the adapter implements interface 
+quote14 eml 
+quote14 hint quote16 show 
+the popup quote15 related 
+quote22 check 
+it for 
+quote12 quote16 
+the need 
+hibernate quote14 
+values from the 
+and quote6 
+only for 
+1 quote5 quote5 
+in future 
+quote2 2 
+remove them 
+be handled 
+the post body 
+instance quote14 quote19 quote19 
+we can use 
+quote4 org quote14 argouml quote14 cognitive quote14 todoitem 
+quote19 quote23 
+time quote7 
+to process 
+the format is quote19 quote19 
+quote22 quote8 since 
+run quote4 quote5 
+error in the 
+quote19 quote19 checkbox 
+quote14 net 
+quote22 get 
+to go 
+to the end 
+class quote14 quote19 quote19 
+methods below 
+no quote15 op 
+use the converted 
+there was a problem with 
+we quote6 ve got a 
+quote15 front 
+case quote9 
+quote6 t have a 
+quote14 but 
+place quote14 
+point is 
+a diagram 
+quote19 quote19 example 
+to build 
+quote14 getname quote4 quote5 
+i think 
+so there 
+quote22 add 
+offenders 
+standalone 
+quote7 borderlayout quote14 center quote5 quote10 
+skip it 
+just add 
+are part 
+tests quote7 
+a set 
+quote10 quote22 quote22 
+todo should 
+quote20 1 quote21 
+and get 
+assume the 
+of parameters 
+quote7 if there is 
+quote20 quote6 
+iri 
+quote5 methods 
+the editor 
+quote19 quote19 temporary 
+append the 
+the container 
+is in the 
+quote15 aug quote15 
+quote14 state 
+reference quote7 but 
+mousereleased quote4 
+main panel 
+quote21 quote19 quote19 as specified in the 
+as inputstream 
+quote12 clear 
+quote14 kernel 
+quote15 volatile 
+quote22 self 
+quote19 quote19 quote8 guardedby quote4 quote0 this quote0 quote5 
+stack quote14 
+a form 
+todo quote9 check 
+i quote14 e quote14 quote7 
+quote19 quote19 sort 
+quote19 quote19 folder 
+parent quote14 
+inside the 
+the db quote14 quote19 quote19 
+quote6 t really 
+quote19 quote19 removed 
+quote22 quote22 a 
+quote7 because we 
+we use the 
+quote16 please 
+an index 
+to prevent 
+of the quote19 quote19 
+quote19 quote19 event 
+01 
+secondary 
+loops 
+quote8 throws 
+quote19 quote19 registercolumntype quote4 types quote14 
+quote15 no 
+quote15 c 
+that was 
+quote22 in the 
+the configuration 
+0 quote10 
+past the 
+quote23 boolean quote23 true if file1 
+next time 
+for backward 
+a simple string 
+the moment 
+don quote6 t bother 
+quote7 but the 
+up with 
+we don quote6 t need 
+quote7 if any 
+quote20 2 
+exist quote14 
+log quote16 
+quote15 if 
+quote7 a 
+value and 
+value to 
+quote9 no 
+quote19 quote22 quote22 quote22 quote22 quote22 
+xmi quote14 
+ignored quote14 
+replaced by 
+use the default 
+if we have a 
+should return a 
+with null 
+position in 
+return false 
+not implemented 
+an error in 
+type quote17 
+to parse 
+quote19 quote19 don quote6 t need 
+implement the 
+quote19 quote12 
+quote4 quote0 this quote0 quote5 
+quote4 java quote14 util quote14 
+quote0 quote7 quote19 quote19 
+quote7 not the 
+axion 
+rubyclass quote21 quote19 quote19 quote20 
+fall through quote19 quote19 and 
+quote11 b quote12 
+quote11 quote19 b quote12 
+if there was a problem 
+quote4 ie 
+utf quote15 8 quote7 
+one used 
+get source 
+quote14 jruby 
+the headers 
+quote9 change 
+allowed to 
+the closure 
+necessary quote14 quote19 quote19 
+arrow 
+north 
+internal frame 
+quote19 quote19 required 
+and quote19 or 
+be sure 
+value quote11 
+file quote14 quote19 quote19 
+number quote19 quote19 
+can we 
+it from 
+for quote0 
+plot area 
+properties file 
+quote17 save 
+quote7 java quote14 lang quote14 string quote7 
+quote14 quote19 quote19 this happens 
+is a simple 
+quote19 quote19 if there was a 
+quote22 quote19 quote19 
+quote14 node 
+quote22 todo quote9 this is 
+here to 
+quote19 quote19 we quote6 ll 
+quote18 jmx 
+user wants 
+is being used for 
+the id 
+token quote14 
+they can 
+quote7 org quote14 columba quote14 mail quote14 
+quote7 if necessary 
+for editing 
+class quote15 
+quote19 quote19 already 
+quote0 quote5 quote10 quote22 
+quote7 0 quote5 quote5 quote10 
+is not the 
+the version 
+null for 
+quote6 quote26 
+quote22 set up the 
+databases 
+chat 
+attached 
+parents 
+bundle 
+they quote6 
+of our 
+quote19 quote19 quote22 quote22 
+0 quote19 
+java quote14 lang quote14 object quote7 int quote7 
+there is nothing 
+quote7 see 
+keep the 
+quote19 quote19 throws 
+1 quote9 
+quote19 quote19 same 
+br 
+quote19 quote19 since the 
+so this 
+load of 
+table to 
+path quote16 
+put into 
+quote19 quote19 we should 
+quote7 so that 
+quote19 path 
+quote19 quote19 the first 
+empty quote7 
+the way 
+within a 
+to be non 
+a node 
+can quote6 t do 
+we add 
+quote15 table 
+otherwise quote7 we 
+this constructor 
+char is 
+send a 
+remove any 
+it won quote6 t 
+the converted 
+allowed or 
+fk 
+virtual folder 
+owning 
+colour 
+ary 
+props 
+getpreferredsize quote4 quote5 
+resolution 
+workbench 
+origin 
+2000 
+modes 
+redirect 
+bail out 
+hasn quote6 t 
+consecutive 
+into account 
+org quote14 columba quote14 core quote14 gui quote14 frame quote14 
+quote19 quote22 quote16 
+a way 
+quote22 file 
+foo quote4 
+of any 
+must be a 
+quote7 cc quote14 xy quote4 
+quote22 is 
+0 quote7 0 quote5 
+quote4 select quote5 
+quote19 quote22 public 
+quote4 quote5 method quote4 dg quote5 quote10 quote22 
+quote19 quote19 public final static string 
+quote14 quote22 quote22 quote8 see org quote14 
+quote7 quote19 quote19 we 
+quote7 then it 
+invoke quote4 
+from string 
+be true 
+quote4 for 
+test to 
+dataset should 
+if there are any 
+the resultset 
+the critic 
+quote4 quote5 quote2 quote19 quote19 return 
+the set 
+quote19 quote19 quote30 
+vs 
+public final 
+see if it 
+classes quote7 
+quote19 quote19 quote22 quote22 quote22 quote22 quote22 
+key quote7 
+quote22 since 
+quote4 c quote5 
+quote12 value quote11 quote19 
+manner 
+unset 
+keylistener 
+translator quote14 localize quote4 
+collecting 
+redraw 
+associationrole 
+selects 
+gettext quote4 quote5 
+half 
+eg 
+modifytestelement 
+removes 
+reply 
+moving 
+register interest 
+internally 
+saves 
+hopefully 
+mod 
+trick 
+appropriately 
+definitions 
+permissions 
+compilation 
+jvm 
+anymore 
+blue 
+effects 
+larger 
+unnecessary 
+text and in quote15 cell operations quote14 
+user enters 
+error occured 
+of both jtextfield 
+org quote14 argouml quote14 kernel 
+and text quote15 table operations 
+quote14 importer 
+quote19 quote19 i18n quote20 datasetupdateabletablemodelimpl quote14 error quote14 
+quote9 this is a 
+first we 
+quote19 quote19 quote18 quote0 
+methods quote15 quote15 quote15 
+have quote19 
+not an 
+to reset 
+in the quote22 
+quote4 no 
+uml2 quote14 
+inputstream to 
+status message 
+super quote15 
+we shouldn quote6 t 
+quote4 testelement quote5 
+quote0 quote19 quote12 
+go to 
+may not be 
+so must 
+quote6 quote4 
+area for 
+since they 
+default is 
+menu quote19 quote19 
+level quote14 
+quote22 all 
+text quote15 
+isenabled quote4 quote5 
+quote17 icon quote7 imageloader quote14 
+quote29 refresh quote4 
+an explicit 
+quote7 so create a 
+quote14 equals 
+the edit 
+quote19 y 
+ignore this 
+protocol quote14 
+creates a 
+log quote14 debug 
+quote14 getproperty quote4 
+quote6 t allow 
+quote19 quote19 3 
+quote15 quote0 
+quote19 quote19 java 
+quote0 quote10 quote19 quote19 quote27 non 
+elements quote14 
+quote16 no 
+this column 
+read from 
+so create a 
+quote19 quote19 quote24 
+quote19 quote19 probably 
+record the 
+we won quote6 t 
+2006 
+dec 
+ret 
+todoitem quote5 
+move the 
+quote19 quote19 maybe 
+quote19 quote19 what 
+throws an 
+for backwards 
+methods quote15 quote15 
+are any 
+quote19 quote19 single 
+quote14 quote6 
+index is 
+all other 
+quote7 if there is one 
+a new one 
+in both 
+quote19 quote19 compare 
+initial load of 
+look like 
+helper method to 
+content encoding 
+quote9 change this to use 
+and fill in 
+quote0 false 
+classes quote14 
+array quote7 
+quote22 should 
+first quote14 
+quote7 when 
+quote19 quote19 todo quote9 use 
+is disabled 
+quote19 quote19 although 
+of message 
+quote0 quote29 quote0 
+a new instance of 
+quote19 quote19 reuse 
+the children 
+quote22 this is 
+method quote22 
+optimistic 
+25 
+unicode 
+legal 
+quote4 owner quote7 
+which the 
+kernel quote14 
+highlight quote4 select quote5 
+two columns 
+a concrete 
+error quote9 
+quote7 so must 
+a match 
+the left 
+quote7 where 
+quote19 quote19 bar 
+to control 
+if it is not 
+06 
+alphanum 
+if it was 
+quote7 e quote14 g quote14 
+create view 
+quote6 s an 
+to select 
+is actually 
+quote7 java quote14 lang quote14 object quote7 
+the same as the 
+value of the 
+this information 
+time to 
+quote7 quote14 quote14 quote14 
+2 quote14 1 
+was quote9 
+of them 
+quote7 no need 
+59 
+foundation 
+02 
+code quote7 
+quote7 they 
+quote19 root 
+so must not be 
+to the fignode 
+the cell 
+checkbox for 
+re quote15 use 
+quote27 unique 
+c quote18 
+quote0 quote11 null quote12 quote0 
+compatibility with 
+the same one used in 
+a separate quote19 quote19 
+quote19 quote19 hack to 
+quote22 first we 
+directly quote14 
+that result 
+i have 
+rescue 
+sessions 
+goal 
+new arraylist 
+quote19 quote19 quote22 quote22 quote22 quote22 
+not quote14 
+have quote19 quote19 
+send the 
+create one 
+the document 
+quote19 quote19 iterate over 
+quote7 if there is one quote14 
+the edge 
+quote19 quote19 quote23 
+the user to 
+quote19 quote19 copy the 
+quote19 quote19 generate the 
+the tests 
+dataset with 
+contained in 
+specified by 
+quote14 setborder quote4 borderfactory quote14 
+in reverse 
+type for 
+figs to 
+the fact 
+quote23 quote23 quote23 ee quote23 
+quote7 by 
+if its 
+quote19 break 
+text quote19 plain 
+the content type 
+again quote7 
+quote14 8 
+this package 
+quote19 types 
+the thread 
+quote20 quote0 
+required quote14 
+to pass 
+quote7 use null 
+quote19 quote19 perform 
+reg 
+bracket 
+preferred 
+corner 
+teardown 
+res 
+replacement 
+def 
+library is 
+choice 
+quote16 new jpanel quote4 quote5 quote10 
+org quote14 columba quote14 chat quote14 
+so they 
+the processing 
+quote15 this 
+name quote22 
+quote19 quote19 list of 
+string quote7 string 
+so we don quote6 t 
+irubyobject quote7 rubyclass quote7 
+refresh quote4 quote5 
+more work 
+quote14 protocol quote14 
+quote22 todo quote9 move 
+cell and popup 
+operator quote19 
+the page 
+00 quote9 00 
+n quote21 
+quote6 quote14 quote6 
+tab quote14 
+action is 
+quote5 quote10 quote3 quote22 
+quote4 int quote5 quote9 
+quote7 but quote19 quote19 
+quote19 non quote15 
+is null quote7 
+quote19 quote19 default quote9 
+nullable quote19 
+after quote6 
+quote4 quote5 is 
+quote5 quote2 quote19 quote19 
+s the 
+one quote15 
+quote0 org 
+with block 
+would be better 
+in the db quote14 quote19 quote19 
+abs quote17 path 
+a project 
+quote19 quote19 set to 
+added quote14 
+if not quote7 
+should use 
+tick label 
+does not support 
+new color quote4 
+quote14 types 
+new quote19 quote19 
+quote19 quote19 last 
+drivers 
+caches 
+clicks 
+linked 
+holder 
+transform 
+formats 
+5 quote7 5 
+quote17 str 
+org quote14 apache quote14 jmeter quote14 protocol quote14 http quote14 
+quote19 quote19 count 
+the model quote14 quote22 
+quote15 we only 
+quote19 quote19 button 
+jtextarea quote14 quote22 
+name quote16 quote0 
+in which case 
+quote4 quote5 quote5 quote5 quote10 
+quote5 quote5 quote14 
+which quote19 quote19 
+add it to the 
+quote4 value 
+quote19 quote19 quote11 quote19 
+quote20 0 quote21 
+case 3 
+should return a null 
+quote4 owner 
+delete quote14 
+if present 
+a proxy 
+the table quote7 
+quote12 value 
+quote4 org quote14 argouml quote14 cognitive quote14 todoitem quote5 quote22 
+quote14 no 
+quote19 correct 
+xmlns 
+the clipboard 
+from element 
+to look 
+questionmark quote4 
+is set to 
+quote11 null quote12 
+when quote19 
+datasetviewer 
+getview quote4 quote5 
+locking 
+shapes 
+coordinates 
+fired 
+figtext 
+getroot quote4 quote5 
+existent 
+simplify 
+high 
+displaying 
+cookies 
+callers 
+ordering 
+reduce 
+setvisible 
+neither 
+elsewhere 
+commented 
+symbol 
+approach 
+device 
+unregister 
+indicates 
+linux 
+basically 
+login 
+chance 
+older 
+iterate over all 
+signal 
+revert 
+selectors 
+soon 
+my 
+check box 
+easy 
+milliseconds 
+new insets quote4 
+quote29 getminimumsize quote4 quote5 quote22 
+too much 
+the initial load of the table 
+quote19 quote19 quote0 alter table quote27 tablename quote27 
+quote19 quote19 was 
+as default 
+delete quote4 
+null quote7 which 
+java 1 quote14 
+column name 
+zero quote15 
+quote4 needed for 
+quote19 quote19 if there is a 
+re quote15 read the 
+work around 
+quote19 quote19 special case quote9 
+panel quote14 
+given in 
+whether or not 
+quote0 from 
+quote19 quote19 instance variables 
+quote19 quote19 load the 
+can quote19 quote19 make 
+quote4 x quote7 
+quote19 quote19 consider 
+of quote19 quote19 the 
+but i 
+which we are 
+children of 
+load of the 
+quote14 6 
+the driver 
+this is an 
+like the 
+else quote14 
+map quote7 
+the quote11 code quote12 
+probably not 
+quote14 bar 
+code to 
+background color 
+ie quote14 
+an expression 
+be shown 
+value quote16 
+quote14 namespace 
+quote19 text 
+isselected quote4 quote5 
+last char 
+been changed 
+org quote14 argouml quote14 kernel quote14 
+add a second 
+quote6 quote23 quote6 
+quote19 quote19 we can quote6 t 
+if it quote6 s not 
+is created 
+quote19 quote19 parse the 
+define the 
+you want 
+c quote5 quote10 
+the generator 
+set by 
+class quote19 quote19 
+uric 
+editingdomain 
+the classifier 
+the size of the 
+quote19 catalog 
+for now quote14 
+myid 
+builder quote14 append quote4 
+attr 
+org quote14 argouml quote14 model quote14 umlhelper 
+quote7 y quote18 
+quote19 quote19 public final 
+quote4 see 
+insert the 
+quote19 updates 
+quote14 session 
+quote19 quote19 leave 
+this doesn quote6 t 
+beginning of 
+menu items 
+the first time 
+quote19 quote19 quote19 quote19 constructors 
+file quote5 
+quote7 only 
+non quote15 null quote14 
+quote10 quote19 quote19 quote3 quote19 quote19 
+file quote9 
+quote19 quote19 exception 
+name for 
+latin 
+quote15 apr quote15 
+quote22 06 quote15 
+within this 
+column names 
+refer to 
+inner loop 
+progress bar 
+at the moment 
+of the method 
+quote19 quote19 model quote14 
+quote14 quote22 it 
+false quote0 
+cases of 
+values that 
+quote4 quote5 quote19 
+quote19 quote19 standard 
+columnname quote10 
+back on 
+variables are 
+appears to 
+quote14 equals quote4 
+quote19 span 
+not allow 
+or more 
+quote14 type 
+quote15 name 
+item quote14 quote14 quote14 
+element in 
+quote7 get 
+quote7 quote14 quote14 
+keys quote14 
+quote7 then just 
+quote19 quote19 clean 
+only in 
+1 quote14 5 
+of both 
+pie 
+addall 
+mutable 
+quote14 nextline quote4 quote5 quote10 
+quote14 setenabled quote4 false quote5 quote10 
+quote14 addactionlistener quote4 
+been quote19 quote19 
+quote19 quote19 there are 
+0 quote5 quote10 
+1 quote14 4 quote14 
+name quote4 
+applies to 
+and fill in the 
+i am 
+quote19 quote19 quote20 irubyobject 
+quote17 data 
+quote7 so must not be 
+quote4 java quote14 io quote14 
+of null 
+for any 
+listeners quote14 
+quote17 i 
+the tag 
+quote19 quote19 types 
+quote14 types quote14 
+1d quote7 
+shd quote17 data 
+feature quote14 quote19 quote19 
+enable quote19 
+files to 
+quote19 quote22 quote22 quote22 quote22 quote22 quote22 quote22 quote22 
+will be null 
+used in the 
+1 quote19 
+warranty 
+ucs quote15 
+02 quote15 
+of the gnu lesser general public 
+org quote14 argouml quote14 application quote14 events quote14 
+the gnu lesser general public quote22 license 
+the free software 
+we always 
+this info 
+quote19 quote19 otherwise quote7 use the 
+loader quote14 
+use that 
+returned quote14 
+popup menu 
+delete last 
+you don quote6 t 
+quote17 quote17 quote17 quote17 quote17 quote17 quote17 quote17 quote17 quote17 
+no action 
+and center 
+to eliminate 
+null quote19 
+info quote7 
+for the item 
+area quote14 quote14 
+selected quote7 
+version of the 
+to be non quote15 
+quote14 info quote14 
+we check 
+varchar 
+physical 
+associationend 
+keystroke 
+mask 
+accessor 
+filesets 
+compression 
+quote19 quote19 quote18 quote18 
+name to 
+the class is 
+0 quote19 quote19 
+quote14 http quote14 
+quote19 quote19 break 
+quote9 we should 
+a line 
+quote6 quote6 
+text and in quote15 cell 
+quote16 script 
+is nothing 
+when quote19 quote19 
+quote4 but 
+quote5 quote7 but 
+quote7 quote19 quote19 and 
+quote12 0 
+http post 
+throws an exception 
+static string 
+loop through 
+so there is no need 
+quote7 boolean quote7 boolean 
+quote6 t care 
+quote5 quote10 quote22 quote22 
+quote7 but if 
+does not use 
+quote19 quote19 quote19 public 
+type quote19 quote19 
+checks quote14 
+to take 
+quote22 without 
+quote19 quote19 quote19 quote19 constants 
+be at 
+quote14 collection 
+is false 
+the view 
+quote19 quote19 right 
+quote14 quote22 the 
+which have 
+quote4 quote5 quote2 
+quote14 quote22 quote8 return 
+to see if the 
+in java 
+quote7 that 
+we should be 
+references to 
+quote26 quote26 
+order quote14 
+a time 
+tables quote14 
+the argument 
+methods to 
+and jtextarea quote14 quote22 
+tuplizer 
+month 
+centerpanel 
+inbox 
+getheight quote4 quote5 
+setbounds 
+transitions 
+kludge 
+writer 
+obsolete 
+quote16 new arraylist 
+j 
+quote22 20 
+quote22 quote8 throws 
+that doesn quote6 t 
+them in 
+quote16 close 
+one or more 
+need to re quote15 read the 
+quote19 quote19 unfortunately 
+doswitch 
+sp 
+th 
+quote22 quote22 this library is 
+quote14 in 
+quote19 quote22 quote22 quote22 quote22 quote22 quote22 quote22 
+quote19 we quote6 re 
+nullable quote19 quote19 
+given in the 
+field quote14 
+quote4 needed 
+argument quote14 
+quote6 quote15 
+area quote14 quote14 quote14 
+quote19 quote19 text 
+so there is 
+because of the 
+in the case of 
+non null 
+quote6 is 
+getproperty quote4 quote5 
+operator quote19 quote19 
+defaults to 
+does nothing 
+future quote9 
+todo quote9 do we need 
+should throw 
+a plugin 
+the response 
+quote19 logger 
+entity quote7 
+quote19 quote19 additional 
+it and 
+quote19 quote19 y 
+quote19 quote19 correct 
+db quote14 if 
+probably be 
+quote0 where 
+quote17 table 
+not find 
+a resource 
+are only 
+quote19 quote19 we have a 
+with two 
+this event quote14 
+quote19 quote19 tick 
+data to 
+from quote19 
+retrieve the 
+text before 
+i quote19 o 
+3 quote9 
+values for 
+better to 
+quote0 org quote14 
+will always be 
+is never 
+from the file 
+proxies 
+relocate quote4 
+assumption 
+delegates 
+anywhere 
+constructed 
+cell editor 
+csv 
+1st 
+anonymous 
+service 
+getvalue 
+comparable 
+ioexception 
+terms 
+k 
+build up 
+log quote14 log quote4 level quote14 
+we make 
+quote19 quote19 reset the 
+an instance of 
+quote20 i 
+this allows 
+code is 
+fine quote7 
+read during 
+to deal with 
+a composite 
+the pool 
+the layer 
+quote15 do not change 
+exists and 
+the contents of the 
+quote19 quote19 listen 
+quote7 e quote14 
+command to 
+goto quote17 w 
+tudresden quote14 ocl quote14 check quote14 types quote14 type 
+actor 
+regex 
+br quote12 
+quote19 quote19 plugin 
+it questionmark 
+so we quote6 
+an error in the 
+quote7 quote22 java quote14 lang quote14 object quote7 java quote14 
+a copy of the 
+quote22 quote22 fixme 
+needed quote14 
+a column 
+as if there 
+propertieschanged 
+epackage 
+splash 
+stupid 
+clip 
+bodies 
+valuechanged quote4 
+removeupdate quote4 
+insertupdate quote4 
+figstate 
+getcolumnclass quote4 
+mmessage 
+changedupdate quote4 
+detached 
+constraint quote27 
+apparently 
+prompt 
+often 
+selections 
+potential 
+queue 
+five 
+scaling 
+subsequent 
+combobox 
+nor 
+editing domain 
+modifytestelement quote4 
+necessarily 
+commented out 
+marks 
+unlikely 
+site 
+authentication 
+shorter 
+instantiation 
+namespaces 
+coded 
+incorrect 
+whose 
+expects 
+yield 
+printing 
+prepend 
+passes 
+quote27 constraintname quote27 
+prior 
+non quote15 existent 
+remainder 
+searching 
+mismatch 
+abort 
+convention 
+static final string 
+remain 
+anyone 
+only works 
+only care about 
+read the complete data 
+dom 
+false quote10 
+defined by 
+when field is 
+to invoke 
+a warning 
+processing of this 

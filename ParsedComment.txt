@@ -1,0 +1,348 @@
+package net.authorize.sample; 
+ 
+ import java.io.BufferedReader; 
+ import java.io.IOException; 
+ import java.io.InputStreamReader; 
+ 
+ import net.authorize.sample.VisaCheckout.*; 
+ import net.authorize.sample.PaymentTransactions.*; 
+ import net.authorize.sample.PayPalExpressCheckout.*; 
+ import net.authorize.sample.PayPalExpressCheckout.Void; 
+ import net.authorize.sample.RecurringBilling.*; 
+ import net.authorize.sample.TransactionReporting.*; 
+ import net.authorize.sample.CustomerProfiles.*; 
+ import net.authorize.sample.MobileInAppTransactions.*; 
+ import net.authorize.sample.FraudManagement.*; 
+ import net.authorize.sample.AcceptSuite.GetAcceptCustomerProfilePage; 
+ import net.authorize.sample.AcceptSuite.GetAnAcceptPaymentPage; 
+ 
+ /** 
+ * Created by anetdeveloper on 8/5/15. 
+ */ 
+ public class SampleCode { 
+ 
+ \tpublic static void main(String[] args) { 
+ 
+ \t\tif (args.length == 0) { 
+ \t\t\tSelectMethod(); 
+ \t\t} else if (args.length == 1) { 
+ \t\t\tRunMethod(args[0]); 
+ \t\t\treturn; 
+ \t\t} else { 
+ \t\t\tShowUsage(); 
+ \t\t} 
+ 
+ \t\tSystem.out.println(""); 
+ \t\tSystem.out.print("Press <Return> to finish ..."); 
+ \t\tBufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
+ \t\ttry { 
+ \t\t\tint i = Integer.parseInt(br.readLine()); 
+ \t\t} catch (Exception ex) { 
+ \t\t} 
+ 
+ \t} 
+ 
+ \tprivate static void ShowUsage() { 
+ \t\tSystem.out.println("Usage : java -jar SampleCode.jar [CodeSampleName]"); 
+ \t\tSystem.out.println(""); 
+ \t\tSystem.out.println("Run with no parameter to select a method. Otherwise pass a method name."); 
+ \t\tSystem.out.println(""); 
+ \t\tSystem.out.println("Code Sample Names: "); 
+ \t\tShowMethods(); 
+ 
+ \t} 
+ 
+ \tprivate static void SelectMethod() { 
+ \t\tSystem.out.println("Code Sample Names: "); 
+ \t\tSystem.out.println(""); 
+ \t\tShowMethods(); 
+ \t\tSystem.out.println(""); 
+ \t\tSystem.out.print("Type a sample name & then press <Return> : "); 
+ \t\tBufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
+ \t\ttry { 
+ \t\t\tRunMethod(br.readLine()); 
+ \t\t} catch (Exception ex) { 
+ \t\t\tSystem.out.println(ex.toString()); 
+ \t\t} 
+ \t} 
+ 
+ \tprivate static void ShowMethods() { 
+ \t\tSystem.out.println(" DecryptVisaCheckoutData"); 
+ \t\tSystem.out.println(" CreateVisaCheckoutTransaction"); 
+ \t\tSystem.out.println(" ChargeCreditCard"); 
+ \t\tSystem.out.println(" AuthorizeCreditCard"); 
+ \t\tSystem.out.println(" RefundTransaction"); 
+ \t\tSystem.out.println(" VoidTransaction"); 
+ \t\tSystem.out.println(" CreateCustomerProfileFromTransaction"); 
+ \t\tSystem.out.println(" CaptureFundsAuthorizedThroughAnotherChannel"); 
+ \t\tSystem.out.println(" CapturePreviouslyAuthorizedAmount"); 
+ \t\tSystem.out.println(" DebitBankAccount"); 
+ \t\tSystem.out.println(" CreditBankAccount"); 
+ \t\tSystem.out.println(" ChargeTokenizedCreditCard"); 
+ \t\tSystem.out.println(" CreateAnApplePayTransaction"); 
+ \t\tSystem.out.println(" CreateAnAndroidPayTransaction"); 
+ \t\tSystem.out.println(" CreateAnAcceptTransaction"); 
+ \t\tSystem.out.println(" ChargeCustomerProfile"); 
+ \t\tSystem.out.println(" CreateSubscription"); 
+ \t\tSystem.out.println(" CreateSubscriptionFromCustomerProfile"); 
+ \t\tSystem.out.println(" GetSubscription"); 
+ \t\tSystem.out.println(" GetSubscriptionStatus"); 
+ \t\tSystem.out.println(" CancelSubscription"); 
+ \t\tSystem.out.println(" UpdateSubscription"); 
+ \t\tSystem.out.println(" GetListOfSubscriptions"); 
+ \t\tSystem.out.println(" GetBatchStatistics"); 
+ \t\tSystem.out.println(" GetSettledBatchList"); 
+ \t\tSystem.out.println(" GetTransactionList"); 
+ \t\tSystem.out.println(" GetUnsettledTransactionList"); 
+ \t\tSystem.out.println(" GetTransactionDetails"); 
+ \t\tSystem.out.println(" CreateCustomerProfile"); 
+ \t\tSystem.out.println(" CreateCustomerPaymentProfile"); 
+ \t\tSystem.out.println(" CreateCustomerShippingAddress"); 
+ \t\tSystem.out.println(" DeleteCustomerPaymentProfile"); 
+ \t\tSystem.out.println(" DeleteCustomerProfile"); 
+ \t\tSystem.out.println(" DeleteCustomerShippingAddress"); 
+ \t\tSystem.out.println(" GetCustomerPaymentProfile"); 
+ \t\tSystem.out.println(" GetCustomerPaymentProfileList"); 
+ \t\tSystem.out.println(" GetCustomerProfile"); 
+ \t\tSystem.out.println(" GetCustomerProfileIds"); 
+ \t\tSystem.out.println(" GetCustomerProfileTransactionList"); 
+ \t\tSystem.out.println(" GetCustomerShippingAddress"); 
+ \t\tSystem.out.println(" GetAcceptCustomerProfilePage"); 
+ \t\tSystem.out.println(" UpdateCustomerProfile"); 
+ \t\tSystem.out.println(" UpdateCustomerPaymentProfile"); 
+ \t\tSystem.out.println(" UpdateCustomerShippingAddress"); 
+ \t\tSystem.out.println(" ValidateCustomerPaymentProfile"); 
+ \t\tSystem.out.println(" PayPalAuthorizeCapture"); 
+ \t\tSystem.out.println(" PayPalVoid"); 
+ \t\tSystem.out.println(" PayPalAuthorizationOnly"); 
+ \t\tSystem.out.println(" PayPalAuthorizeCaptureContinued"); 
+ \t\tSystem.out.println(" PayPalGetDetails"); 
+ \t\tSystem.out.println(" PayPalPriorAuthorizationCapture"); 
+ \t\tSystem.out.println(" PayPalAuthorizeOnlyContinued"); 
+ \t\tSystem.out.println(" PayPalCredit"); 
+ \t\tSystem.out.println(" UpdateSplitTenderGroup"); 
+ \t\tSystem.out.println(" GetMerchantDetails"); 
+ \t\tSystem.out.println(" GetHeldTransactionList"); 
+ \t\tSystem.out.println(" ApproveOrDeclineHeldTransaction"); 
+ \t\tSystem.out.println(" GetAnAcceptPaymentPage"); 
+ \t\tSystem.out.println(" CreateChasePayTransaction"); 
+ \t} 
+ 
+ \tprivate static void RunMethod(String methodName) { 
+ \t\t// These are default transaction keys. 
+ \t\t// You can create your own keys in seconds by signing up for a sandbox account 
+ \t\t// here: https://developer.authorize.net/sandbox/ 
+ \t\tString apiLoginId = "5KP3u95bQpv"; 
+ \t\tString transactionKey = "346HZ32z3fP4hTG2"; 
+ \t\t// Update the payedId with which you want to run the sample code 
+ \t\tString payerId = "6ZSCSYG33VP8Q"; 
+ \t\t// Update the transactionId with which you want to run the sample code 
+ \t\tString transactionId = "123456"; 
+ 
+ \t\tString customerProfileId = "36596285"; 
+ \t\tString customerPaymentProfileId = "33086593"; 
+ \t\tString customerAddressId = "1873761911"; 
+ 
+ \t\tString emailId = "test@test.com"; 
+ 
+ \t\tString subscriptionId = "2925606"; 
+ 
+ \t\tDouble amount = 123.45; 
+ 
+ \t\t// Proxy server settings. 
+ \t\t// Enable these lines for using Sample Codes behind a proxy server 
+ 
+ \t\t// System.setProperty("https.proxyUse", "true"); 
+ \t\t// System.setProperty("https.proxyHost", "example.proxy.server"); 
+ \t\t// System.setProperty("https.proxyPort", "portNumber"); 
+ \t\t// System.setProperty("https.proxyUserName", "exampleUsername"); 
+ \t\t// System.setProperty("https.proxyPassword", "examplePassword"); 
+ 
+ \t\tswitch (methodName) { 
+ \t\tcase "DecryptVisaCheckoutData": 
+ \t\t\tDecryptVisaCheckoutData.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "CreateVisaCheckoutTransaction": 
+ \t\t\tCreateVisaCheckoutTransaction.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "ChargeCreditCard": 
+ \t\t\tChargeCreditCard.run(apiLoginId, transactionKey, amount); 
+ \t\t\tbreak; 
+ \t\tcase "VoidTransaction": 
+ \t\t\tVoidTransaction.run(apiLoginId, transactionKey, transactionId); 
+ \t\t\tbreak; 
+ \t\tcase "AuthorizeCreditCard": 
+ \t\t\tAuthorizeCreditCard.run(apiLoginId, transactionKey, amount); 
+ \t\t\tbreak; 
+ \t\tcase "RefundTransaction": 
+ \t\t\tRefundTransaction.run(apiLoginId, transactionKey, amount, transactionId); 
+ \t\t\tbreak; 
+ \t\tcase "CreateCustomerProfileFromTransaction": 
+ \t\t\tCreateCustomerProfileFromTransaction.run(apiLoginId, transactionKey, amount, emailId); 
+ \t\t\tbreak; 
+ \t\tcase "CaptureFundsAuthorizedThroughAnotherChannel": 
+ \t\t\tCaptureFundsAuthorizedThroughAnotherChannel.run(apiLoginId, transactionKey, amount); 
+ \t\t\tbreak; 
+ \t\tcase "CapturePreviouslyAuthorizedAmount": 
+ \t\t\tCapturePreviouslyAuthorizedAmount.run(apiLoginId, transactionKey, transactionId); 
+ \t\t\tbreak; 
+ \t\tcase "DebitBankAccount": 
+ \t\t\tDebitBankAccount.run(apiLoginId, transactionKey, amount); 
+ \t\t\tbreak; 
+ \t\tcase "CreditBankAccount": 
+ \t\t\tCreditBankAccount.run(apiLoginId, transactionKey, transactionId, amount); 
+ \t\t\tbreak; 
+ \t\tcase "ChargeTokenizedCreditCard": 
+ \t\t\tChargeTokenizedCreditCard.run(apiLoginId, transactionKey, amount); 
+ \t\t\tbreak; 
+ \t\tcase "CreateAnApplePayTransaction": 
+ \t\t\tCreateAnApplePayTransaction.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "CreateAnAndroidPayTransaction": 
+ \t\t\tCreateAnAndroidPayTransaction.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "CreateAnAcceptTransaction": 
+ \t\t\tCreateAnAcceptTransaction.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "ChargeCustomerProfile": 
+ \t\t\tChargeCustomerProfile.run(apiLoginId, transactionKey, customerProfileId, customerPaymentProfileId, amount); 
+ \t\t\tbreak; 
+ \t\tcase "ChargeCustomerProfilesMT": 
+ \t\t\tChargeCustomerProfilesMT.run(); 
+ \t\t\tbreak; 
+ \t\tcase "CreateSubscription": 
+ \t\t\tCreateSubscription.run(apiLoginId, transactionKey, (short) 12, amount); 
+ \t\t\tbreak; 
+ \t\tcase "CreateSubscriptionFromCustomerProfile": 
+ \t\t\tCreateSubscriptionFromCustomerProfile.run(apiLoginId, transactionKey, (short) 12, amount, customerProfileId, 
+ \t\t\t\t\tcustomerPaymentProfileId, customerAddressId); 
+ \t\t\tbreak; 
+ \t\tcase "GetSubscription": 
+ \t\t\tGetSubscription.run(apiLoginId, transactionKey, subscriptionId); 
+ \t\t\tbreak; 
+ \t\tcase "GetSubscriptionStatus": 
+ \t\t\tGetSubscriptionStatus.run(apiLoginId, transactionKey, subscriptionId); 
+ \t\t\tbreak; 
+ \t\tcase "CancelSubscription": 
+ \t\t\tCancelSubscription.run(apiLoginId, transactionKey, subscriptionId); 
+ \t\t\tbreak; 
+ \t\tcase "UpdateSubscription": 
+ \t\t\tUpdateSubscription.run(apiLoginId, transactionKey, subscriptionId); 
+ \t\t\tbreak; 
+ \t\tcase "GetListOfSubscriptions": 
+ \t\t\tGetListOfSubscriptions.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "GetBatchStatistics": 
+ \t\t\tGetBatchStatistics.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "GetSettledBatchList": 
+ \t\t\tGetSettledBatchList.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "GetTransactionList": 
+ \t\t\tGetTransactionList.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "GetUnsettledTransactionList": 
+ \t\t\tGetUnsettledTransactionList.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "GetTransactionDetails": 
+ \t\t\tGetTransactionDetails.run(apiLoginId, transactionKey, transactionId); 
+ \t\t\tbreak; 
+ \t\tcase "CreateCustomerProfile": 
+ \t\t\tCreateCustomerProfile.run(apiLoginId, transactionKey, emailId); 
+ \t\t\tbreak; 
+ \t\tcase "CreateCustomerPaymentProfile": 
+ \t\t\tCreateCustomerPaymentProfile.run(apiLoginId, transactionKey, customerProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "CreateCustomerShippingAddress": 
+ \t\t\tCreateCustomerShippingAddress.run(apiLoginId, transactionKey, customerProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "DeleteCustomerPaymentProfile": 
+ \t\t\tDeleteCustomerPaymentProfile.run(apiLoginId, transactionKey, customerProfileId, customerPaymentProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "DeleteCustomerProfile": 
+ \t\t\tDeleteCustomerProfile.run(apiLoginId, transactionKey, customerProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "DeleteCustomerShippingAddress": 
+ \t\t\tDeleteCustomerShippingAddress.run(apiLoginId, transactionKey, customerProfileId, customerAddressId); 
+ \t\t\tbreak; 
+ \t\tcase "GetCustomerPaymentProfile": 
+ \t\t\tGetCustomerPaymentProfile.run(apiLoginId, transactionKey, customerProfileId, customerPaymentProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "GetCustomerPaymentProfileList": 
+ \t\t\tGetCustomerPaymentProfileList.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "GetCustomerProfile": 
+ \t\t\tGetCustomerProfile.run(apiLoginId, transactionKey, customerProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "GetCustomerProfileIds": 
+ \t\t\tGetCustomerProfileIds.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "GetCustomerProfileTransactionList": 
+ \t\t\tcustomerProfileId = "1811474252"; 
+ \t\t\tGetCustomerProfileTransactionList.run(apiLoginId, transactionKey, customerProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "GetCustomerShippingAddress": 
+ \t\t\tGetCustomerShippingAddress.run(apiLoginId, transactionKey, customerProfileId, customerAddressId); 
+ \t\t\tbreak; 
+ \t\tcase "GetAcceptCustomerProfilePage": 
+ \t\t\tGetAcceptCustomerProfilePage.run(apiLoginId, transactionKey, customerProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "UpdateCustomerProfile": 
+ \t\t\tUpdateCustomerProfile.run(apiLoginId, transactionKey, customerProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "UpdateCustomerPaymentProfile": 
+ \t\t\tUpdateCustomerPaymentProfile.run(apiLoginId, transactionKey, customerProfileId, customerPaymentProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "UpdateCustomerShippingAddress": 
+ \t\t\tUpdateCustomerShippingAddress.run(apiLoginId, transactionKey, customerProfileId, customerAddressId); 
+ \t\t\tbreak; 
+ \t\tcase "ValidateCustomerPaymentProfile": 
+ \t\t\tValidateCustomerPaymentProfile.run(apiLoginId, transactionKey, customerProfileId, customerPaymentProfileId); 
+ \t\t\tbreak; 
+ \t\tcase "PayPalAuthorizeCapture": 
+ \t\t\tAuthorizationAndCapture.run(apiLoginId, transactionKey, amount); 
+ \t\t\tbreak; 
+ \t\tcase "PayPalVoid": 
+ \t\t\tVoid.run(apiLoginId, transactionKey, transactionId); 
+ \t\t\tbreak; 
+ \t\tcase "PayPalAuthorizationOnly": 
+ \t\t\tAuthorizationOnly.run(apiLoginId, transactionKey, amount); 
+ \t\t\tbreak; 
+ \t\tcase "PayPalAuthorizeCaptureContinued": 
+ \t\t\tAuthorizationAndCaptureContinued.run(apiLoginId, transactionKey, transactionId, payerId, amount); 
+ \t\t\tbreak; 
+ \t\tcase "PayPalAuthorizeOnlyContinued": 
+ \t\t\tAuthorizationOnlyContinued.run(apiLoginId, transactionKey, transactionId, payerId, amount); 
+ \t\t\tbreak; 
+ \t\tcase "PayPalCredit": 
+ \t\t\tCredit.run(apiLoginId, transactionKey, transactionId); 
+ \t\t\tbreak; 
+ \t\tcase "PayPalGetDetails": 
+ \t\t\tGetDetails.run(apiLoginId, transactionKey, transactionId); 
+ \t\tcase "PayPalPriorAuthorizationCapture": 
+ \t\t\tPriorAuthorizationCapture.run(apiLoginId, transactionKey, transactionId); 
+ \t\t\tbreak; 
+ \t\tcase "UpdateSplitTenderGroup": 
+ \t\t\tUpdateSplitTenderGroup.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "GetMerchantDetails": 
+ \t\t\tGetMerchantDetails.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "GetHeldTransactionList": 
+ \t\t\tGetHeldTransactionList.run(apiLoginId, transactionKey); 
+ \t\t\tbreak; 
+ \t\tcase "ApproveOrDeclineHeldTransaction": 
+ \t\t\tApproveOrDeclineHeldTransaction.run(apiLoginId, transactionKey, transactionId); 
+ \t\t\tbreak; 
+ \t\tcase "GetAnAcceptPaymentPage": 
+ \t\t\tGetAnAcceptPaymentPage.run(apiLoginId, transactionKey, amount); 
+ \t\t\tbreak; 
+ \t\tcase "CreateChasePayTransaction": 
+ \t\t\tCreateChasePayTransaction.run(apiLoginId, transactionKey, amount); 
+ \t\t\tbreak; 
+ \t\tdefault: 
+ \t\t\tShowUsage(); 
+ \t\t\tbreak; 
+ \t\t} 
+ \t} 
+ } 

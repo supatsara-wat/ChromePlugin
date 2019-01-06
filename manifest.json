@@ -1,0 +1,29 @@
+{
+    "name": "Hello Extensions",
+    "description" : "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 2,
+
+    "content_scripts": [
+      {
+        "run_at": "document_end",
+        "matches": [
+          "https://github.com/*/*"
+        ],
+        "js": ["comment.js"]
+      }
+    ],
+    "browser_action": {
+        "default_icon": "browser.png",
+          "default_popup": "popup.html"
+        
+      },
+      
+      "permissions": [
+        "https://github.com/*/*",
+        "storage"
+        
+      ]
+      
+    
+  }
