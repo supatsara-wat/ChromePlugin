@@ -3,10 +3,10 @@
 window.addEventListener('DOMContentLoaded', function () {	
 	
     var button = document.querySelectorAll('button');
-	button[0].addEventListener('click', clickHandler);
-	button[1].addEventListener('click', more_detail);
-	button[2].addEventListener('click', clickHandler);
-	button[3].addEventListener('click', more_detail);
+	button[0].addEventListener('click', clickHandlerDesign);
+	button[1].addEventListener('click', more_detailDesign);
+	button[2].addEventListener('click', clickHandlerReq);
+	button[3].addEventListener('click', more_detailReq);
 
 	var input = document.getElementById("files");
 	chrome.storage.sync.set({'showReport': "Off"}, function() {
@@ -193,12 +193,12 @@ window.addEventListener('DOMContentLoaded', function () {
 	  });
 	
 
-    function clickHandler(element) {
+    function clickHandlerDesign(element) {
 		
 		var button = document.querySelectorAll('button');
 		
 		//design button
-		button1.onclick = function (){
+	
 			//press button(design)
 			if(button[0].value == "unpress"){
 				this.style.backgroundColor = "#FF0000";
@@ -224,9 +224,17 @@ window.addEventListener('DOMContentLoaded', function () {
 				
 				});
 			}
-		}
+		
+		       
+	}
+
+
+	function clickHandlerReq(element) {
+		
+		var button = document.querySelectorAll('button');
+		
 		//start highlight
-		button2.onclick = function () {
+		
 			if(button[2].value == "unpress"){
 				this.style.backgroundColor = "#FFFF00";
 				this.style.color = "black";
@@ -251,7 +259,7 @@ window.addEventListener('DOMContentLoaded', function () {
 				});
 			}
 			
-		}
+		
 		       
 	}
 
@@ -339,13 +347,8 @@ window.addEventListener('DOMContentLoaded', function () {
 	  
 	  }
 	
-	function more_detail(element){
-
-		var plus_button_design = document.querySelector(".plus-button-design");
-		var plus_button_requirement = document.querySelector(".plus-button-requirement");
-
-
-		plus_button_design.onclick = function (){
+	function more_detailDesign(element){
+	
 
 			chrome.storage.sync.get(['comments'], function(result) {
 				//console.log(result.comments);
@@ -353,16 +356,18 @@ window.addEventListener('DOMContentLoaded', function () {
 			   
 			  });
 
-		
-		}
 
-		plus_button_requirement.onclick = function(){
+	}
+
+	function more_detailReq(element){
+
+	
 			chrome.storage.sync.get(['comments'], function(result) {
 				//console.log(result.comments);
 				showReqInfo(result.comments);
 			   
 			  });
-		}
+		
 
 	}
 
