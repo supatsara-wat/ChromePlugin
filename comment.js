@@ -1,17 +1,6 @@
 
 
 
-const COMMENT_START = /(^([ \t]+)?\/\*|^([ \t]+)?###)/gi;
-
-const COMMENT_END = /(\*\/|^([ \t]+)?###)/gi;
-
-const COMMENT_SYNTAX = /(^[ \t]+\/\* ?|^[ \t]+#(##)? ?| ?\*\/|^[ \t]+|[ \t]+$)/gi;
-
-const COMMENT_RE = /\/\*[\s\S]*?\*\/|([^\\:]|^)\/\/.*$/gm;
-
-var keepcomment = [];
-
-
 class Line {
 
     /**
