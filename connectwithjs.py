@@ -303,6 +303,7 @@ def prediction(comments):
 def worker():
     # read json + reply
     data = request.values.get('input', '')
+    print("Hello")
 
     if(data == "[]"):
 
